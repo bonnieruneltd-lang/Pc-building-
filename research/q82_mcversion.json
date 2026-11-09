@@ -1,0 +1,58 @@
+{
+  "query": "Minecraft Java Edition version 26.3 2026 modding Sodium Iris support",
+  "follow_up_questions": null,
+  "answer": "The sources indicate that as of today, Minecraft Java Edition version 26.3 is compatible with Iris Shaders, but there are issues with the latest version of Sodium causing crashes. The YouTube video on installing Iris Shaders for Minecraft 26.3 confirms that Iris supports Minecraft Java 26.3 and provides a step-by-step guide on how to install it. However, the GitHub issue and Linux forum post mention that the latest version of Sodium is incompatible with Iris, causing game crashes. Therefore, while Iris is supported for Minecraft 26.3, the compatibility with Sodium remains unresolved.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://github.com/IrisShaders/Iris/issues/3265",
+      "title": "The latest version of Sodium is incompatible with the Iris mod, causing the game to crash. \u00b7 Issue #3265 \u00b7 IrisShaders/Iris \u00b7 GitHub",
+      "content": "---- Minecraft Crash Report ---- // But it works on my machine. Time: 2026-07-31 01:17:34 Description: Render Frame java.lang.NullPointerException: Cannot invoke \"net.minecraft.world.level.Level.tickRateManager()\" because \"this.level\" is null at knot//net.minecraft.client.Camera.getCameraEntityPartialTicks(Camera.java:129) at knot//net.minecraft.client.renderer.GameRenderer.extract(GameRenderer.java:395) at knot//net.minecraft.client.Minecraft.renderFrame(Minecraft.java:1366) at [...] closed this as not plannedon Aug 4, 2026\n\nSign up for free to join this conversation on GitHub. Already have an account? Sign in to comment\n\n## Metadata\n\n## Metadata\n\nNo one assigned\n\nNo labels\n\nNo labels\n\nBug\n\nNo projects\n\nNo milestone\n\nNone yet\n\nNo branches or pull requests\n\n## Issue actions\n\nYou can\u2019t perform that action at this time. [...] imide\n\n   on Jul 30, 2026\n\n   More actions\n\n   I am encountering the same issue. MC 26.2 Arch Linux 6700xt.\n\n   \n\n   Reacted by Anglodel\n3. ### Tornado300commentedon Jul 30, 2026\n\n   @Tornado300\n\n   Tornado300\n\n   on Jul 30, 2026\n\n   More actions\n\n   me to mc 26.2 arch linux aswell on an nvidia gpu.\n\n   Reacted by Anglodel\n4. ### Summer-the-codercommentedon Jul 30, 2026\n\n   @Summer-the-coder\n\n   Summer-the-coder\n\n   on Jul 30, 2026\n\n   More actions",
+      "score": 0.8066246,
+      "raw_content": null,
+      "id": "2f5084-00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MYtF0tAALCA",
+      "title": "How To Install Shaders In Minecraft (2026) \u2013 Iris + Sodium",
+      "content": "Download the OptiFine version that matches your Minecraft version, run the installer and launch the new OptiFine profile through the Minecraft Launcher.\n\nThe main downside in 2026 is version support. Minecraft Java is currently on 26.2, while OptiFine can take longer to update for new Minecraft releases.\n\n\ud83d\udfe2 METHOD 2 \u2014 IRIS + SODIUM\n\nFor most players on modern Minecraft versions, Iris + Sodium is my recommended option. [...] Iris adds shader support while Sodium improves Minecraft's rendering performance. In this tutorial, I'll show you how to get the correct versions installed with Fabric and make sure old Iris or Sodium files don't cause problems after updating Minecraft.\n\nIris currently supports Minecraft Java 26.2, making it the better option for most players using the latest version.\n\n\ud83c\udfa8 HOW TO ADD A MINECRAFT SHADER PACK\n\nDownload your shader pack and keep it ZIPPED \u2014 don't extract it.\n\nIn Minecraft, go to: [...] [1:37] from an older Minecraft version, delete them. They won't work on 26.2. And having both versions in there will stop things loading right. If fabric API is\n[1:45] already in there and it matches 26.2, you can leave it and skip that download.\n[1:49] Otherwise, grab fabric API and Iris from Modern and drop the jar files in there.\n[1:54] Quick note, some Iris builds already include sodium, so check the download page for your version first before grabbing a separate sodium file, so",
+      "score": 0.79939574,
+      "raw_content": null,
+      "id": "717083-01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P9voSytEiwg&vl=en",
+      "title": "How To Add Shaders To Minecraft Java 26.3 - Minecraft Shaders (Easy Guide 2026)",
+      "content": "[0:24] shaders to Minecraft JEA for 26.3 in this year 2026. All right, guys. So, here we are on my PC. Now, the way to\n[0:32] add shaders to Minecraft Java for 26.3 is very simple and easy guide. But before [music] that, make sure you guys have the Optifine, Iris, or even the\n[0:40] sodium for using any shaders in the Minecraft include for the version 26.3. [...] Today's video is about how to add shaders to minecraft java for 26.3 and all version. so the way to add shaders to minecraft java is very simple and easy guide, but before that make sure you have the optifine, oculus, sodium and iris shaders for using any shaders in minecraft including for minecraft 26.3, also there a 4 different way to add any shaders in minecraft java for 26.3 and all version. on of them is very simple and others are easy to do that to adding any shaders for minecraft java. [...] [5:36] 26.3 or the other version with a monitoring app. All right guys, I think that is the video about how to add shaders to the Minecraft Java for 26.3\n[5:44] and this year 2026. So all way to add any shaders to the Minecraft Java for any version include for the 26.3 is very\n[5:52] simple and easy guide. But before that, make sure you guys have the optifine, Oculus, sodium or even the iris shaders for using any shaders in the Minecraft",
+      "score": 0.78334314,
+      "raw_content": null,
+      "id": "0f5f5a-02"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G5_YuoczpAE",
+      "title": "How To Download & Install Iris Shaders (Minecraft 26.3)",
+      "content": "Once that\u2019s down, open the installer file, and select the 26.3 version. Install Iris, and you are good to go! You can now go into the Minecraft Launcher, and play using your Iris & Sodium 26.3 installation. \n\nHowever, you aren\u2019t going to actually having any shaders yet. You just have the ability to add them to Minecraft. You can find a link above to our best shader packs, but any shader pack you downloaded for 26.3 is installed in the exact same way. [...] To install it with your Iris Shaders profile open, go to options, video settings, shaders. Then, drag-and-drop the shaders backs directly into the shaders menu. Select the pack you want, click \u201cApply\u201d, and Iris Shaders will now be active and working in Minecraft 26.3. \n\nCongratulations! You now know how to get Iris Shaders in Minecraft 26.3. If you have any questions, let us know in the comments. We will try our best to help you out. [...] [2:52] downloads folder and having to shift things around. So, once we're in the Minecraft launcher, though, don't jump into Minecraft yet. Don't just hit play.\n[2:59] You want to go to the installations tab up here at the top. Then you have this iris and sodium installation. That is what you want to play Minecraft with.\n[3:06] So, you just click play. Click play again. Minecraft's going to open up with your shaders mod installed, but no shader packs. We're going to add those",
+      "score": 0.6937432,
+      "raw_content": null,
+      "id": "d78343-03"
+    },
+    {
+      "url": "https://www.linux.org/threads/minecraft-java-26-3-crashing-with-sodium-iris.71616",
+      "title": "Minecraft Java 26.3 crashing with sodium/iris | Linux.org",
+      "content": "Linux.org\n\n New posts\n Search forums\n\nMenu\n\nLog in\n\nRegister\n\n Home\n Forums\n General Linux Forums\n Linux Gaming\n\nYou are using an out of date browser. It may not display this or other websites correctly.  \nYou should upgrade or use an alternative browser.\n\n# Minecraft Java 26.3 crashing with sodium/iris\n\n Thread starter osha\n Start date\n Tags\n  :   minecraft   modded minecraft   nvidia   opengl   pop!\\_os 24.04 lts   wayland\n\nO\n\n#### osha\n\n##### New Member\n\nJoined\n:   Sep 18, 2026 [...] running inside your mods folder. There are two very important changes you have to make in the env vars settings: \"\\_\\_GL\\_THREADED\\_OPTIMIZATIONS=0\" (thanks f33dm3bits) and \"SDL\\_VIDEO\\_DRIVER=wayland.\" Your game will fail to init openGL every time without these, try to use xwayland, and then crash. Thanks Nvidia! [...] Alright so I figured I'd update you guys since I figured out how to resolve this issue. Firstly, to anyone wanting to play minecraft at all, mods or not, use prism launcher since it lets you set custom env vars. If you have a newer nvidia/intel setup, the biggest issue is the compatibility layer xwayland which is supposed to help with nvidia graphics but since nvidia is an awesome company that never does anything wrong, this will fail to init openGL every time you have iris running inside your",
+      "score": 0.6877354,
+      "raw_content": null,
+      "id": "cd3532-04"
+    },
+    {
+      "url": "https://modrinth.com/mod/iris/changelog",
+      "title": "Iris Shaders - Changelog",
+      "content": "Host a serverGet Modrinth AppModrinth App\n\nSign in\n\nModsResource PacksData PacksShadersModpacksPluginsServers\n\nSign in\n\nSettings\n\nIris Shaders\n\n# Iris Shaders\n\nA modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs\n\n193.1Mdownloads\n\n30.6Kfollowers\n\n193.1Mdownloads\n\n30.6Kfollowers\n\n## Compatibility\n\n### Minecraft: Java Edition\n\n26.3\n\n26.2\n\n26.1.x\n\n1.21.x\n\n1.20.x\n\n1.19.x\n\n1.18.x\n\n1.17.x\n\n1.16.5\n\n### Platforms\n\n### Supported environments\n\nClient-side",
+      "score": 0.66464967,
+      "raw_content": null,
+      "id": "695db7-05"
+    }
+  ],
+  "response_time": 1.88,
+  "request_id": "f1cebe67-2918-4d9c-91fa-b8834a89acc5"
+}

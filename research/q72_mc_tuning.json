@@ -1,0 +1,58 @@
+{
+  "query": "Minecraft modded JVM arguments 2026 Sodium Iris Distant Horizons optimal settings render distance RAM allocation",
+  "follow_up_questions": null,
+  "answer": "For Minecraft modded JVM arguments with Distant Horizons, use a concurrent garbage collector like ZGC for Java 21+ or Shenandoah for Java 8-17. Allocate 6-8 GB of RAM for CPUs with 4-8 cores and 12-16 GB for CPUs with 10+ cores. Lower DH's CPU load and \"Distant Generation\" in the DH config menu, and reduce the \"Graphics Preset\" for optimal settings. For RAM, 6GB is recommended for Distant Horizons, and 10GB should be used cautiously due to potential issues with the Java Garbage Collector.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://modrinth.com/project/uCdwusMi",
+      "title": "Distant Horizons - Minecraft Mod",
+      "content": "1. Use a concurrent garbage collector like ZGC for Java 21+ or Shenandoah for Java 8-17\n    This can be done via your JVM arguments (args)\n2. Increase Minecraft's allocated RAM\n    For CPUs with 4-8 cores: try allocating 6-8 GB\n    For CPUs with 10+ cores: try allocating 12-16 GB\n3. Lower DH's CPU load in the DH config menu\n4. Disabling DH's \"Distant Generation\" in the DH config menu\n5. Lower DH's \"Graphics Preset\" in the DH config menu\n\n  \n\n### Q: Where can I download the Bukkit plugin? [...] Host a serverGet Modrinth AppModrinth App\n\nSign in\n\nModsResource PacksData PacksShadersModpacksPluginsServers\n\nSign in\n\nSettings\n\nDistant Horizons\n\n# Distant Horizons\n\nMassively increase render distance without harming performance.\n\n39Mdownloads\n\n14.7Kfollowers\n\n39Mdownloads\n\n14.7Kfollowers\n\n## Compatibility\n\n### Minecraft: Java Edition\n\n26.3\n\n26.2\n\n26.1.x\n\n1.21.3\u20131.21.11\n\n1.21\u20131.21.1\n\n1.20.6\n\n1.20.4\n\n1.20\u20131.20.2\n\n1.19.x\n\n1.18.x\n\n1.17.x\n\n1.16.3\u20131.16.5\n\n1.12.2\n\n### Platforms [...] Distant Horizons allows you to achieve extreme (256+) chunk render distances at a low performance cost.   \n Now you can finally enjoy that mountain top lookout tower.\n\n  \n\n### This photo was taken with a Minecraft render distance of 8 and a mod distance of 512.\n\n  \n\n# FAQ:\n\n### Q: Forge or Fabric?\n\nA: MC 1.20.6 and newer - NeoForge and Fabric are both in the same jar.   \n MC 1.20.4 and older - Forge and Fabric are both in the same jar.\n\n  \n\n### Q: Shaders?",
+      "score": 0.7043437,
+      "raw_content": null,
+      "id": "0dfa2f-00"
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/modpacks/distant-horizons-iris-shaders",
+      "title": "Distant Horizons & Iris Shaders - Minecraft Modpacks - CurseForge",
+      "content": "2GB - No, just No - This WILL crash your game, don't bother.\n 4GB - Minimum - Things will stutter slightly, although anything below 256 chunks should be fine.\n 6GB - Recommended - This is the optimum amount of RAM for Distant Horizons. This should be perfectly fine for playing with no to 20 light mods. [...] 10GB - Careful - This much RAM can sometimes be a bad thing for the Java Garbage Collector. Only use this if you are using a heavy terrain generation mod such as JJThunder To The Max or Big Globe. [...] For fast terrain generation, crank the CPU load and AFK, then come back, drop it down to minimal or low impact and play the game. Otherwise, just take screenshots.\n\nAlthough DH has gone pretty efficient and less RAM intensive, using anything more than 320 chunks is probably not a good idea. Your RAM will be used up, and the game will start stuttering badly.",
+      "score": 0.64585793,
+      "raw_content": null,
+      "id": "134ac1-01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_2j3mbpcgSo",
+      "title": "How To Use & Optimize Distant Horizons for Huge Render and FPS",
+      "content": "With this video, you will learn exactly how to use and optimize Distant Horizons for massive render distance and high FPS. We start with the essential companion mods, Sodium and Iris, to ensure a stable base. To avoid lag during exploration, I'll show you how to pre-generate your world using the Chunky mod. We will dive deep into the settings, covering Quality Presets and CPU Multi-threading optimization to balance performance and visuals. You'll also find out which shaders work best (like [...] 0:00 Introduction to Distant Horizons Optimization\n0:30 Essential Companion Mods: Sodium & Iris\n1:26 Monitoring Rendering Progress\n2:01 Pre-generating Worlds with Chunky Mod\n5:39 Basic Optimization Presets\n7:31 Advanced Quality & Performance Tuning\n9:29 CPU Multi-threading Optimization\n10:16 Best Shaders for High Performance\n11:16 Testing with Optimization Modpacks\n12:51 Distant Horizons Alternative: Foxy Mod [...] ### Transcript\n[0:00] In this episode, I'll show you how to use and optimize the Distant Horizons mod to get high FPS in the game and enjoy long-d distanceance rendering in\n[0:08] your world. So, let's get started. It's worth mentioning that along with Distant Horizons, I obviously added the Sodium mod, which by itself really optimizes\n[0:17] our game. So, we won't even need to change anything in the settings, but we absolutely have to install it.",
+      "score": 0.53866833,
+      "raw_content": null,
+      "id": "7caf7b-02"
+    },
+    {
+      "url": "https://distanthorizonsguide.com/guides/distant-horizons-best-settings",
+      "title": "Distant Horizons Best Settings: Performance, Quality & Laptop Profiles | Distant Horizons Guide",
+      "content": "1\n\n### Start with vanilla render distance at 8\u201312\n\nKeep full-detail chunks close to the player and let the LOD system handle the distant horizon.\n\n2\n\n### Start LOD distance at 64\u2013128 chunks\n\nUse a moderate distance and wait for generation. Increase it in small steps rather than jumping immediately to the maximum.\n\n3\n\n### Use medium or low LOD quality first\n\nQuality affects memory, generation work, and visual detail. Choose the lowest profile that looks good from your normal play distance.\n\n4 [...] 1. Set vanilla render distance first, then select a modest LOD distance.\n2. Reduce builder load if exploration stutters; extra RAM cannot fix a CPU or GPU bottleneck.\n3. Wait for LOD generation to settle before increasing distance or quality.\n4. Add a compatible shader last, then retest the same route and world.\n\n## Use the guide that matches your problem [...] PerformanceLast verified 2026-08-25\n\n# Distant Horizons Best Settings: Performance, Quality & Laptop Profiles\n\nThere is no single best Distant Horizons profile for every PC. The best starting point keeps Minecraft responsive, lets LOD generation catch up, and increases distance only after frame pacing and memory use are stable.\n\n## Quick answer",
+      "score": 0.52597815,
+      "raw_content": null,
+      "id": "38d9eb-03"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d8GKiEPkzLw",
+      "title": "Get INSANE Render Distance in Minecraft With Distant Horizons + Iris Shaders",
+      "content": "Get INSANE Render Distance in Minecraft With Distant Horizons + Iris Shaders. This is a NEW Minecraft 1.20.6 video. In this video, I am going to check out a Minecraft Mod called Distant Horizons. The Mod allows you to have a crazy high render distance in Minecraft, with close to no performance impact. You can set your render distance above 256 chunks without any trouble. And with Distant Horizons'/Iris Shaders' new developer version, you can even use Shaders alongside it. It's very epic, fun, [...] [1:59] Horizon is not just nidum but then it allows you to use shaders there is a lot more to this mod this is a Minecraft\n[2:07] World with distance Horizons installed shaders enabled and render distance 12\n[2:14] yes this is render distance 12 I know it may not look like it but it is so we've not actually increased our render\n[2:21] distance and that is because of the way distance Horizons works with the midium /bobby method you would actually [...] [6:06] want to hop in game and when you go to options you should see the distant Horizons button over here when you click\n[6:13] on there you can change some settings so do you want distance Horizons enabled or not well obviously we do then what do\n[6:20] you want the LOD render distance to be for how long do you want distant Horizons to load in that extra terrain\n[6:27] by default it is on 12 128 though if you want an even crazier render distance and you think your PC can handle that then",
+      "score": 0.47051823,
+      "raw_content": null,
+      "id": "1b67e7-04"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F3Pq3eJSEaI",
+      "title": "Minecraft Never Looked This Good 2025 Guide | Distant Horizons + Shaders",
+      "content": "=====  Mods =====\nDistant Horizons: \nFabric: \nFabric API: \nSodium: \nIris: \n\n===== Shaders =====\nBliss Shaders: \nShrimple Shaders: \n\n===== Other Links =====\nDownload Java  (if you need it): \nDistant Horizons Discord:   / discord  \nAlso, check out the Nvidium guide:    \u2022 HUGE Render Distance, MAX FPS | Nvidium + ... [...] ### Chapters\n[0:00] Intro\n[0:15] Apex Hosting\n[0:53] Downloading Distant Horizons\n[1:26] Download Fabric\n[1:56] Install Mod Distant Horizons\n[2:25] Download Fabric API\n[2:41] Download Sodium & Iris\n[3:13] Optimize Minecraft with more RAM\n[4:30] Distant Horizon Settings\n[5:15] First Distant Horizons launch\n[5:35] Shaders & Compatability [...] [3:23] 1.21.1 whatever version you're on head across to the installations tab followed by finding this version click the three\n[3:31] dots next to it and choose edit then expand more options scroll down and find jvm Arguments for you you'll see xmx 2G\n[3:40] this means that your game can only use 2 gigs of RAM simply hit control shift and escape to open up your Windows Task Manager head across to the performance",
+      "score": 0.4133593,
+      "raw_content": null,
+      "id": "653210-05"
+    }
+  ],
+  "response_time": 3.19,
+  "request_id": "5c16c546-b7e2-45f8-a461-d06c4bd30e58"
+}

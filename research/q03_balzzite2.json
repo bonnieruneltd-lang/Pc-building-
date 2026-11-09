@@ -1,0 +1,50 @@
+{
+  "query": "balzzite mod minecraft curseforge modrinth",
+  "follow_up_questions": null,
+  "answer": "The sources indicate that BBS mod is a Minecraft mod available on Modrinth, which allows content creators to make animations, roleplays, and machinimas within Minecraft. It was published 2 years ago and updated last week. Modrinth is a platform that offers an open-source launcher and a catalog of Minecraft Java Edition mods, focusing on community creations. It contrasts with CurseForge, which hosts mods for many games and has its own app. Modrinth gives creators 75 percent of its advertising revenue. The sources do not provide specific information on \"balzzite mod\" on CurseForge or Modrinth.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://modrinth.com/project/HNsMvuaQ",
+      "title": "BBS mod - Minecraft Mod",
+      "content": "## Links\n\nVisit wiki  Join Discord server \n\nDonate on Patreon\n\n## Tags\n\n## Creators\n\n## Details\n\nLicensed ARR\n\nPublished 2 years ago\n\nUpdated last week\n\nCurseForge \u2013 Modrinth \u2013 Wiki\n\nBBS mod is the content creator's Minecraft mod. It allows content creators create animations, roleplays, and machinimas within Minecraft! However, BBS mod's strongest point is creating animations. BBS 2 and newer are based on BBS mod's fork, BBS FS by Wemppy. [...] Host a serverGet Modrinth AppModrinth App\n\nSign in\n\nModsResource PacksData PacksShadersModpacksPluginsServers\n\nSign in\n\nSettings\n\nBBS mod\n\n# BBS mod\n\nAnimation studio and content creation tool\n\n370.7Kdownloads\n\n589followers\n\n370.7Kdownloads\n\n589followers\n\n## Compatibility\n\n### Minecraft: Java Edition\n\n26.3\n\n1.21.1\n\n1.20.4\n\n1.20.1\n\n1.12.2\n\n### Platforms\n\n### Supported environments\n\nClient-side\n\nClient and server\n\nGet your next server on Modrinth.Get your next server on Modrinth.\n\n## Links",
+      "score": 0.76300776,
+      "raw_content": null,
+      "id": "db6f0d-00"
+    },
+    {
+      "url": "https://modrinth.com",
+      "title": "Modrinth",
+      "content": "Alter EgoAlter Ego is a mod that lets you set separate profiles in Minecraft, each with its own inventory, gamemode, skin, cape, nickname, and spawn point, with Trinkets and Origins support.\n\nFor Players\n\n## Discover over 100,000 creations\n\nFrom magical biomes to cursed dungeons, you can be sure to find content to bring your gameplay to the next level.\n\n### Find what you want, quickly and easily\n\nModrinth's lightning-fast search and powerful filters let you find what you want as you type. [...] ScaleyScaley is a Minecraft Fabric mod for stretched resolution, custom FOV, and view-model tweaks. It lets you run aspect ratios like 4:3, bypass vanilla FOV limits, and customize held item positions and rotations for both hands directly in-game.Psittacine\n\nPsittacineBreedable parrots, 35 new parrot skins, colorful feather blocks, transport cages, and functionality tweaks.Maple's Rabbits | Seasonal Variants [...] Alter EgoAlter Ego is a mod that lets you set separate profiles in Minecraft, each with its own inventory, gamemode, skin, cape, nickname, and spawn point, with Trinkets and Origins support.\n\nVoidWeaverMod\n\nVoidWeaverModHelp a forgotten goddess regain her power by descending into a prison enveloped in shadows.Fabled Roots\n\nFabled RootsFabled Roots adds 10 unique races and 10 powerful classes to Minecraft, along with new weapons, items, spells and structures to explore.Scaley",
+      "score": 0.741169,
+      "raw_content": null,
+      "id": "c199f4-01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=COTwSQpMcg8",
+      "title": "CurseForge vs Modrinth: Is THIS the Better Minecraft Mod Launcher? \ud83d\ude31",
+      "content": "CurseForge has been a familiar name in Minecraft modding for years, but Modrinth brings a fresh approach: an open-source launcher, a searchable catalog of community creations, and a convenient way to manage different modded Minecraft setups. Could this be the CurseForge alternative you've been waiting for?\n\n\ud83d\udd25 WHY MINECRAFT PLAYERS SHOULD KNOW MODRINTH [...] \u2694\ufe0f MODRINTH VS CURSEFORGE: WHICH IS BETTER?\n\nIt depends on the mods you want to play. CurseForge remains a major home for Minecraft content and supports other games too. Modrinth focuses on Minecraft Java Edition and offers an appealing, community-focused way to discover and manage creations. Always check the Minecraft version, mod loader, and project availability before downloading. [...] # CurseForge vs Modrinth: Is THIS the Better Minecraft Mod Launcher? \ud83d\ude31\n## Channel: Visualmodo\n55.5K subscribers\n1 likes\n\n### Description\n484 views\nPosted: 2026-10-28\nIs Modrinth better than CurseForge for Minecraft mods and modpacks? \ud83c\udfae If you're looking for an easier way to discover, install, update, and organize Minecraft Java Edition mods, the Modrinth App deserves a serious look.",
+      "score": 0.6773251,
+      "raw_content": null,
+      "id": "8239bd-02"
+    },
+    {
+      "url": "https://cakehosting.net/en/blog/curseforge-vs-modrinth",
+      "title": "CurseForge vs Modrinth: Where to Get Mods Safely",
+      "content": "## Mods on your own server\n\nOn a Minecraft server at CakeHosting, the Mods section of the game panel searches Modrinth directly, and under Modpacks you install packs from Modrinth, CurseForge and Feed The Beast, among others, with the right loader included. The full walkthrough is in install mods and modpacks on your server, and running a modpack server with friends helps you pick a pack for your group. [...] With a modpack, everyone has to play exactly the same version. A CurseForge pack is a `.zip` with a manifest, and when importing, the CurseForge app by default only installs files that are genuinely hosted on CurseForge. Modrinth uses `.mrpack`, the only format you can upload to Modrinth. On Modrinth, every mod shows whether it belongs on the server, with the players or on both. Mods for visuals and performance, such as Sodium or shaders, only belong with the players. [...] Is CurseForge safe?\n\nYes. Every file goes through automated malware checks, and new versions of most projects are also reviewed by hand. The biggest risk is in files you get outside CurseForge, such as a zip sent over Discord.\n\n  What\u2019s the difference between CurseForge and Modrinth?\n\nCurseForge hosts mods for many games and has its own app. Modrinth focuses only on Minecraft: Java Edition, is largely open source and gives creators 75 per cent of its advertising revenue.",
+      "score": 0.6366926,
+      "raw_content": null,
+      "id": "e8564b-03"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=91HmKHBDwqM",
+      "title": "Import a Minecraft Profile from Curseforge to Modrinth Tutorial",
+      "content": "[0:26] method should work with any curse Forge pack you're going to need both the curse Forge and the modrin apps installed links for both are in the description in\n[0:34] case you're missing one the first step is to make sure that you have your mod pack of choice either installed or built in the curse Forge\n[0:42] launcher in my case that is the page master mod pack sitting right here next thing you're going to want to do is you're actually want to click on [...] [1:14] is normally the exact same as the instance name but sometimes if you have a lot of packs installed or if you've done a lot of mod modifications to packs\n[1:23] it'll have like a number appended to it or a random number or it'll be just kind of scrambled this is why you take note of it once you have confirmed both the path\n[1:31] and instance name you can close this and you can close your curse Forge launcher we're going to load up into into the mod [...] [1:39] app next Once mod loads up you should see a screen similar to what I do now click the click the plus symbol in the bottom\n[1:47] left hand corner once here you're going to want to import from another launcher so you're going to click the import from launcher\n[1:55] button here modin does support a number of launchers but in this case we're going",
+      "score": 0.60498303,
+      "raw_content": null,
+      "id": "9076c2-04"
+    }
+  ],
+  "response_time": 2.05,
+  "request_id": "09488306-0645-49b4-bc71-945a0a4b1053"
+}

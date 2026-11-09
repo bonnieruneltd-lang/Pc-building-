@@ -1,0 +1,85 @@
+{
+  "id": "build-b-sweet-spot",
+  "name": "B — Sweet Spot (the build I would actually buy for modded Minecraft on Bazzite)",
+  "currency": "USD",
+  "price_date": "2026-11-09",
+  "target": "All the Mods / 200+ mod packs with Iris shaders at 1440p, 32 chunks + Distant Horizons",
+  "parts": {
+    "cpu": {
+      "name": "AMD Ryzen 7 9850X3D",
+      "price": 484.00,
+      "socket": "AM5",
+      "tdp_w": 120,
+      "peak_w": 162,
+      "cores": "8C/16T",
+      "l3_mb": 96,
+      "why": "Same CPU as the flagship. Do not downgrade this — in modded Minecraft it is worth more than the next GPU tier up."
+    },
+    "cooler": {
+      "name": "Thermalright Peerless Assassin 120 SE V2",
+      "price": 34.99,
+      "type": "air",
+      "height_mm": 155,
+      "why": "A 120 W, single-CCD X3D chip does not need liquid. This $35 cooler holds ~85-90 C under all-core load and is silent in game loads; only buy the 360 AIO if you want lower fan noise at 100% sustained rendering."
+    },
+    "motherboard": {
+      "name": "Gigabyte B850 Eagle WiFi 6E",
+      "price": 189.99,
+      "socket": "AM5",
+      "chipset": "B850",
+      "ram_type": "DDR5",
+      "dimm_slots": 4,
+      "m2_slots": 2,
+      "pcie5_x16": true,
+      "why": "PCIe 5.0 x16 and a PCIe 5.0 M.2 for ~$190. A 9850X3D does not need an X870 board; the money is better spent on RAM or a second SSD."
+    },
+    "memory": {
+      "name": "32 GB (2x16 GB) DDR5-6000 CL30 EXPO",
+      "price": 479.99,
+      "type": "DDR5",
+      "capacity_gb": 32,
+      "sticks": 2,
+      "speed_mts": 6000,
+      "why": "32 GB is the honest floor for 200+ mod packs on Linux (12 GB heap leaves ~19 GB for Bazzite, browser and shader compiler). This is the compromise part of the build: DDR5 is up ~470% from its low, so 64 GB adds ~$570 for headroom you may not need."
+    },
+    "gpu": {
+      "name": "AMD Radeon RX 9070 XT 16 GB",
+      "price": 729.99,
+      "vendor": "AMD",
+      "vram_gb": 16,
+      "tdp_w": 304,
+      "length_mm": 330,
+      "why": "Same card as the flagship — it is the price/performance peak for Minecraft shaders in this market."
+    },
+    "storage": {
+      "name": "WD_BLACK SN850X 2 TB NVMe",
+      "price": 379.99,
+      "interface": "PCIe 4.0 x4 M.2",
+      "capacity_gb": 2000,
+      "why": "DRAM-cached Gen4, mature Linux support, no firmware drama. Gen5 buys nothing for Minecraft."
+    },
+    "psu": {
+      "name": "MSI MPG A1000GS 1000 W (ATX 3.1, 80+ Gold)",
+      "price": 109.99,
+      "wattage": 1000,
+      "atx_31": true,
+      "connector_12v2x6": true,
+      "why": "It is currently cheaper than most 750 W units and gives headroom for a future high-TDP GPU."
+    },
+    "case": {
+      "name": "Lian Li Lancool 207",
+      "price": 79.99,
+      "form_factor": "ATX mid-tower",
+      "max_gpu_mm": 375,
+      "max_cooler_mm": 175,
+      "why": "Best-in-test thermals for ~$80; two 140 mm front + two 120 mm bottom fans included. Zero software needed."
+    }
+  },
+  "peripherals": {
+    "monitor": {
+      "name": "Gigabyte MO27Q2A 27\" 1440p 240 Hz OLED",
+      "price": 394.00,
+      "why": "Cheapest good 1440p 240 Hz OLED in Nov 2026; shaders + HDR on Bazzite look excellent here."
+    }
+  }
+}

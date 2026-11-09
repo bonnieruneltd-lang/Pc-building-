@@ -1,0 +1,50 @@
+{
+  "query": "Ryzen 7 9850X3D specs price release",
+  "follow_up_questions": null,
+  "answer": "The Ryzen 7 9850X3D is set to launch on January 29, 2026, with an MSRP of $499. It is an 8-core and 16-thread processor with a base frequency of 4.7 GHz, a combined L2+L3 cache of 104MB (96MB L3), and a 120W TDP. It uses the Zen 5 (Granite Ridge) architecture with Socket AM5 and supports DDR5 memory with a rated speed of 5600 MT/s. The processor is part of the Ryzen 7 lineup and has a die size of 70.6 mm\u00b2.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.pcguide.com/cpu/amd-ryzen-7-9850x3d-release-date-price-specs",
+      "title": "AMD Ryzen 7 9850X3D release date, specs, and price - PC Guide",
+      "content": "The Ryzen 7 9850X3D launches with a $499 MSRP, which is a relief to see given previous rumors hinting that >$500 may be possible. At $499, the 9850X3D is $20 more expensive than the 9800X3D was at launch back in November 2024, and $30 more expensive based on the current street value, as you\u2019ll find at retailers such as Amazon, Newegg, and B&H Photo Video.\n\nSource: Amazon US [...] ## Ryzen 7 9850X3D release date\n\nThe Ryzen 7 9850X3D will officially launch on the 29th of January, 2026.\n\n### Latest tech deals.\n\n AMD Ryzen\u2122 9 9900X 12-Core - was $499 now $331\n Sony INZONE M10S 27\u201d - was $899 now $748\n Thermaltake LCGS View i1470S-170 - was $2,399 now $2,099\n Apple 2026 MacBook Air - was $1,999 now $1,891\n Bose QuietComfort Headphones - was $359 now $169\n LG 77-inch OLED C6 - was $2,499 now $1,999\n MSI Prestige 16 Flip - was $2,149 now $1,870\n Hisense 85\" U6 Pro Series- [...] The Ryzen 7 9850X3D is an 8-core and 16-thread processor with a base frequency of 4.7 GHz, a combined L2+L3 cache of 104MB (96MB L3), and a 120W TDP. This means that almost everything about the 9850X3D is the same as the 9800X3D, including the power requirements.\n\nImage source: AMD",
+      "score": 0.9305657,
+      "raw_content": null,
+      "id": "9a2e92-00"
+    },
+    {
+      "url": "https://www.techpowerup.com/cpu-specs/ryzen-7-9850x3d.c4301",
+      "title": "AMD Ryzen 7 9850X3D Specs | TechPowerUp CPU Database",
+      "content": "# Physical\n\n|  |  |\n --- |\n| Socket: | AMD Socket AM5 |\n| Foundry: | TSMC |\n| Process Size: | 4 nm |\n| Transistors: | 8.31 billion |\n| Die Size: | 70.6 mm\u00b2 |\n| I/O Process Size: | 6 nm |\n| I/O Transistors: | 3,400 million |\n| I/O Die Size: | 122 mm\u00b2 |\n| Package: | FC-LGA1718 |\n| tJMax: | 95\u00b0C |\n\n# Processor\n\n|  |  |\n --- |\n| Market: | Desktop |\n| Production Status: | Active |\n| Release Date: | Jan 29th, 2026 |\n| Launch Price: | $499 |\n| Part#: | 100-000001973 |\n| Bundled Cooler: | None | [...] The AMD Ryzen 7 9850X3D is a desktop processor with 8 cores, launched in January 2026, at an MSRP of $499. It is part of the Ryzen 7 lineup, using the Zen 5 (Granite Ridge) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 9850X3D has 96 MB of L3 cache and operates at 4.7 GHz by default, but can boost up to 5.6 GHz, depending on [...] # Architecture\n\n|  |  |\n --- |\n| Codename: | Granite Ridge |\n| Generation: | Ryzen 7  (Zen 5 (Granite Ridge)) |\n| Memory Support: | DDR5 |\n| Rated Speed: | 5600 MT/s |\n| Memory Bus: | Dual-channel |\n| Memory Bandwidth: | 89.6 GB/s |\n| Max. Memory: | 256 GB |\n| ECC Memory: | Yes |\n| PCI-Express: | Gen 5, 24 Lanes (CPU only) |\n| Chipsets: | X870E, X870, B850, B840, X670E, X670, B650E, B650, A620 |\n\n# Core Config",
+      "score": 0.9205687,
+      "raw_content": null,
+      "id": "55fd7f-01"
+    },
+    {
+      "url": "https://www.pcmag.com/news/amd-ryzen-7-9850x3d-ces-2026",
+      "title": "With Its New Ryzen 7 9850X3D, AMD Ticks Up the Speed on Its Buzziest Gaming CPU",
+      "content": "AMD did not disclose the exact release date of the coming Ryzen 7 9850X3D, nor did it provide pricing information. The Ryzen 7 9800X3D launched at an MSRP of $479, and the Ryzen 9 9950X3D is priced at $699, which means the Ryzen 7 9850X3D should land somewhere between the two. A straight 8% price increase over the Ryzen 7 9800X3D\u2014to match the increase in clock speed\u2014would put it at around $517. I expect the actual price to be higher, as AMD typically places a premium on its X3D chips. (My guess [...] chips. (My guess is it'll be closer to $549.) I'll also bet we'll see this processor launch closer to spring, as AMD has made a habit of releasing new 3D V-Cache processors every spring for the last several years. [...] AMD\u2019s best Ryzen 7 CPU _without_ 3D V-Cache is the Ryzen 7 9700X, which retails for just $359 while maintaining similar performance to the Ryzen 7 9800X3D, except in games and when gaming at low resolutions. AMD also offers the aforementioned Ryzen 9 9950X3D at $699, which doesn\u2019t levy nearly as big a premium for including the 3D V-Cache technology. It offers far more performance in non-gaming tasks while matching or exceeding the Ryzen 7 9800X3D in gaming workloads. If you are interested in",
+      "score": 0.8896154,
+      "raw_content": null,
+      "id": "fb9095-02"
+    },
+    {
+      "url": "https://www.reddit.com/r/hardware/comments/1qk1pyq/amd_ryzen_7_9850x3d_launches_on_jan_29_for_499",
+      "title": "AMD Ryzen 7 9850X3D Launches on Jan. 29 for $499 : r/hardware",
+      "content": "Skip to main contentAMD Ryzen 7 9850X3D Launches on Jan. 29 for $499 : r/hardware\n\nOpen menu Open navigation is $469. 6-7% price increase is fine I guess for a rumoured 7%-10% perf jump (usually value decreases for more expensive parts). Then again, I'm sure that the 9800X3D price will drop when this launches, which is welcome I guess. Maybe $400 9800X3Ds? Though that will make the 9850X3D basically DOA. [...] # People also ask about section\n\n People also ask about \n\nAMD Ryzen 7 9850X3D launch details and price\n\nLatest trends in gaming hardware\n\nCooling solutions for high-performance PCs\n\nImpact of new GPU releases on gaming\n\nTop-rated motherboards for gaming builds\n\n Public \n\nAnyone can view, post, and comment to this community\n\n0 0\n\n## Top Posts\n\n   Reddit reReddit: Top posts of January 22, 2026   \n   Reddit reReddit: Top posts of January 2026   \n   Reddit reReddit: Top posts of 2026 [...] Checked, and it's at $449 in the Philippines but I guess that's more on our currency dropping in value and stores not updating prices yet lmao.\n\n Reply  Share \n\nImage 7: u/x3nics avatar\n\nx3nics\n\n\u202210mo ago\u2022 Edited 10mo ago\n\n> Maybe $400 9800X3Ds? Though that will make the 9850X3D basically DOA.\n\nProducts like this are never DOA if they are the best thing available. Plenty of people bought 12/13/14900KS's even though it was the same thing with slightly better binning/clock speeds.",
+      "score": 0.8479807,
+      "raw_content": null,
+      "id": "4fc9be-03"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-review",
+      "title": "AMD Ryzen 7 9850X3D review: The world's fastest gaming processor, again | Tom's Hardware",
+      "content": "Our extensive benchmarking will paint a clear picture of what the Ryzen 7 9850X3D offers, or more importantly, what it doesn\u2019t. We have test results for productivity, gaming, and power in the pages ahead, so without further ado.\n\n### Ryzen 7 9850X3D Pricing and Specifications\n\nCPU\n\n \n\nStreet (MSRP)\n\n \n\nArch\n\n \n\nCores / Threads (P+E)\n\n \n\nP-Core Base / Boost Clock (GHz)\n\n \n\nE-Core Base / Boost Clock (GHz)\n\n \n\nCache (L2/L3)\n\n \n\nTDP / PBP or MTP\n\n \n\nMemory\n\n \n\n$650 ($699)\n\n \n\nZen 5 X3D\n\n \n\n16 / 32 [...] Launching at $499, the Ryzen 7 9850X3D deals in such thin margins that it\u2019s easy to lose it in the shuffle. The Ryzen 7 9800X3D launched at $479, and you can find it for around $465 now. The 12-core Ryzen 9 9900X3D is slightly more, with a street price around $560 now, while the 16-core Ryzen 9 9950X3D maintains its halo-product status with a going price of around $670. [...] Nah. Big pass. Given the age and all that, this CPU should have slotted at $450 MSRP and bring the 9800X3D to $420 MSRP.  \n    \n  EDIT: I forgot to mention/ask, isn't the current street median price of the 9800X3D like $450?  \n    \n  Like Leo from KitGuru's review succintly summarised: \"WHY?\".  \n    \n  Regards.\n Roland Of GileadIn the pricing and specs table you have the 9850x as 12 core and 140mb cache.Reply\n -Fran-Reply",
+      "score": 0.8405867,
+      "raw_content": null,
+      "id": "0d7a9a-04"
+    }
+  ],
+  "response_time": 2.07,
+  "request_id": "78bc8fe5-ae47-47d2-90b2-337618c5b208"
+}

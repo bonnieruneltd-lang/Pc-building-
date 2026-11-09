@@ -1,0 +1,58 @@
+{
+  "query": "bazzite best GPU AMD vs NVIDIA modded Minecraft Prism Launcher performance",
+  "follow_up_questions": null,
+  "answer": "According to the sources, AMD GPUs are objectively better on Bazzite compared to Windows, while Nvidia GPUs are objectively worse. Specifically, in benchmarks on Bazzite, AMD GPUs like the 5080 and 9070 XT perform favorably, giving the 5080 a 7.8% advantage in average frame rate over the 9070 XT. Conversely, the RTX 5090 struggles in average frame rate but performs better in lows, while the RTX 5060 has disproportionately bad low performance. The sources also note that AMD's software issues are affecting its GPU performance, while Nvidia's software maturity delivers better real-world performance per dollar for training.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.youtube.com/watch?v=ovOx4_8ajZ8",
+      "title": "RIP Windows: Linux GPU Gaming Benchmarks on Bazzite",
+      "content": "[38:48] and roughly tying in lows. AMDy's first appearance isn't until below the 5060, and even then, its low performance is disproportionately bad. In this\n[38:56] situation, AMD is getting comparatively crushed. Overall, this is something of a reversal from prior charts. AMD has disproportionately bad lows and overall\n[39:05] performance. Nvidia, meanwhile, outdoes it. The RTX 5060 struggles in average frame rate but did okay in its lows. It seems to float closer to whatever [...] [26:54] though, and the 5090 makes that much obvious. The 9070 XT is just behind the 5080 in all three metrics, giving the 5080 a 7.8% advantage in average frame\n[27:02] rate. Broadly speaking, this isn't looking as favorable for Nvidia as an Windows environment. AMD seems disproportionately favored here as\n[27:09] compared to typically to be that close to a 5080 is not a good thing for Nvidia. The 9060 XT is about 48% ahead [...] [28:59] actual use in this test, its performance is worse than an RX970 and an RX970 XT alike. The 5090 is just 19% ahead of the\n[29:08] 5080 here with the 5070 Ti about the same as the 5080 and the 5070 not far behind. This is a clear indication that something is just broken in this chain\n[29:17] of drivers somewhere and software uh and it's falling on Nvidia. The game was overall extremely consistent and it's average and 1% lows and AMD comes away",
+      "score": 0.61168414,
+      "raw_content": null,
+      "id": "89badd-00"
+    },
+    {
+      "url": "https://universal-blue.discourse.group/t/bazzite-graphics-performance-compared-to-windows/4143",
+      "title": "Bazzite graphics performance compared to Windows - Bazzite - Universal Blue",
+      "content": "# Bazzite graphics performance compared to Windows\n\nThe Bazzite FAQ states:\n\nGraphics driver performance is also a mixed bag. AMD GPUs are objectively better on Bazzite versus Windows, but Nvidia GPUs are objectively worse.\n\nWhere is the data that quantifies \u201cobjectively better\u201d and \u201cobjectively worse\u201d?\n\nHow much is \u201cbetter\u201d? How much is \u201cworse\u201d?\n\nTo which version of Windows was this comparison made? Which version of Bazzite was used for the comparison? [...] I sincerely feel that AMD is worse on Windows (especially since Windows Update has a habit of uninstalling their drivers) and much better on Linux. Nvidia\u2019s drivers seem to be intended for machine learning and labs as their only focus while desktop users are put to the backburner. There\u2019s an initiative to reverse engineer Nvidia\u2019s drivers which is funded by a ton of Linux friendly corporations including Red Hat and Valve. [...] To which version of Windows was this comparison made? Which version of Bazzite was used for the comparison?\n\nLatest stable versions for both. Windows 11 (23H2) and Bazzite \u201c3.7.0\u201d (`40.20240914`).\n\n`40.20240914`\n\nEdit: So my data is based on my own experience owning both newer AMD GPUs and Nvidia GPUs and using the Linux desktop, and the reports from our users where the issues were traced to drivers.",
+      "score": 0.61057013,
+      "raw_content": null,
+      "id": "95916c-01"
+    },
+    {
+      "url": "http://gamersnexus.net/gpus/rip-windows-linux-gpu-gaming-benchmarks-bazzite",
+      "title": "RIP Windows: Linux GPU Gaming Benchmarks on Bazzite | GamersNexus",
+      "content": "The 5080 and 9070 XT are clearly unconstrained, though. The 5090 makes that obvious. The 9070 XT is just behind the 5080 in all 3 metrics, giving the 5080 a 7.8% advantage in average framerate. Broadly speaking, this isn\u2019t looking as favorable for NVIDIA as in Windows environments. AMD seems disproportionately favored here as compared to typically. To be that close to the 5080 is not good for NVIDIA.\n\nThe 9060 XT is about 48% ahead of the B580 as a result. [...] In this test, NVIDIA again outperforms AMD significantly. The RTX 5070 outdoes the RX 9070 XT here, with only the 5060 Ti and 5060 behind the 9070.\n\n### Bazzite Summary\n\n Additionally, when you purchase through links to retailers on our site, we may earn a small affiliate commission. [...] In Black Myth with RT Medium and FSR Quality, the RTX 5090 ran at 113 FPS AVG, leading the 5080 by just 30% and roughly tying in lows. AMD\u2019s first appearance isn\u2019t until below the RTX 5060 and, even then, its low performance is disproportionately bad. In this situation, AMD is getting comparatively crushed.",
+      "score": 0.56690645,
+      "raw_content": null,
+      "id": "7bf688-02"
+    },
+    {
+      "url": "https://siliconanalysts.com/analysis/amd-vs-nvidia-ai-gpu-market-share-2026",
+      "title": "AMD vs NVIDIA AI GPU Market Share 2026: MI350X vs B200",
+      "content": "MLPerf Training v5.0 (June 2025) marked AMD's first-ever training submission \u2014 a significant milestone. Key results:\n\n NVIDIA GB200 NVL72 trained Llama 3.1 405B in 10 minutes (5,120 GPUs), delivering 3.2\u00d7 faster training per GPU versus Hopper.\n AMD MI325X (8 GPUs) completed Llama 2 70B LoRA fine-tuning in 21.75 minutes \u2014 8% faster than NVIDIA H200 in the same configuration.\n AMD MI355X achieved near-parity with B200 on Llama 2 70B LoRA (10.18 min vs 9.85 min). [...] SemiAnalysis's independent study (December 2024) went further, finding that MI300X achieves less than 30% of theoretical FLOPS in real training workloads versus NVIDIA's ~40%, and that H100 outperforms MI300X by 10\u201325% in multi-node training with the gap widening at scale. Their conclusion: \"Training performance per TCO is worse on MI300X on public stable releases of AMD software.\" [...] > Key takeaway: AMD's MI350X matches B200 on FP8 compute and exceeds it on memory, but NVIDIA's software maturity delivers 50\u201355% MFU vs AMD's ~45%, meaning real-world performance per dollar favors NVIDIA for training and is roughly equal for inference.\n\n## CUDA vs ROCm: the software moat",
+      "score": 0.17813979,
+      "raw_content": null,
+      "id": "c85fb1-03"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-vs-amd-better-ai-095000031.html",
+      "title": "Nvidia vs. AMD: Which Is the Better AI Chip Stock for 2025?",
+      "content": "for AMD's latest GPU did not match its real-world performance. By contrast, SemiAnalysis described the out-of-the-box performance of Nvidia's H100 and H200 GPUs as \"amazing.\" [...] Today, AMD has its own GPU software platform, and it makes GPUs that are just as powerful as Nvidia's, if not more so -- at least, on paper. However, testing by independent research and analysis company SemiAnalysis has concluded that AMD's software is holding back the performance of its GPUs. In its report, it called AMD's out-of-the-box experience \"unusable,\" and said that it needed \"multiple teams of AMD engineers\" to help it fix software bugs. In the end, the paper specs for AMD's latest",
+      "score": 0.17326054,
+      "raw_content": null,
+      "id": "cd1c69-04"
+    },
+    {
+      "url": "https://www.winvesta.in/blog/investors/amd-vs-nvidia-vs-intel-best-semiconductor-stock-2026",
+      "title": "AMD vs NVIDIA vs Intel: Best semiconductor stock 2026",
+      "content": "In the battle of \u201cAMD vs NVIDIA GPU,\u201d NVIDIA continues to dominate. As of 2024, it holds over 75% of the discrete GPU market, with AMD at around 20%. By 2026, analysts expect NVIDIA to maintain its edge, thanks to its strong position in AI computing and continued performance leadership in the gaming GPU space. [...] In the battle of \u201cAMD vs NVIDIA GPU,\u201d NVIDIA continues to dominate. As of 2024, it holds over 75% of the discrete GPU market, with AMD at around 20%. By 2026, analysts expect NVIDIA to maintain its edge, thanks to its strong position in AI computing and continued performance leadership in the gaming GPU space. [...] For investors focused on efficiency, pricing power, and upside in both CPUs and GPUs, AMD may be the more balanced pick. It has less market share but more room to grow than NVIDIA or Intel.\n\n### Why choose NVIDIA?\n\nNVIDIA is the clear AI leader. It dominates with data centre GPUs, driven by ultra-high demand in training large AI models. Its CUDA software stack is a major reason \u2014 few developers want to switch platforms, given the coding and performance benefits.",
+      "score": 0.16027948,
+      "raw_content": null,
+      "id": "b9e3ae-05"
+    }
+  ],
+  "response_time": 2.65,
+  "request_id": "0e32a78b-db2f-4435-9099-463f0e62f45b"
+}

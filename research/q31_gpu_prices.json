@@ -1,0 +1,58 @@
+{
+  "query": "RX 9070 XT price November 2026 GPU market prices rising",
+  "follow_up_questions": null,
+  "answer": "The RX 9070 XT is priced 45% above MSRP in the US and 36% globally, with a price inflation of $216. The GPU market is experiencing significant price increases, with AMD's Radeon series seeing a 28.3% rise compared to Nvidia's 40% rise. AMD is reportedly planning another price hike for November, and the RX 9070 XT is nearing $1,000. The average price in November was $620, 21.5% over MSRP.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.techspot.com/article/3192-gpu-pricing-q4-2026",
+      "title": "GPU Prices Are Spiraling Out of Control: Q4 2026 Update | TechSpot",
+      "content": "RX 9070 is priced 27% above MSRP in the US, and 28% globally.\n\nIn terms of price inflation, these models are on the lower end of the scale. The RX 9070 is 28% above MSRP, while the RX 9070 XT is 36% above MSRP. That's $155 of price inflation for the 9070 and $216 for the 9070 XT, once regional prices are normalized to dollars.\n\n##### AMD Radeon RX 9070 XT [...] RX 9070 XT is priced 45% above MSRP in the US, and 36% globally.\n\nWith the raw price increase of the RX 9070 XT roughly matching that of the RX 9060 XT 16GB, it looks like the RX 9070 is a little cheaper than it should be, considering it has the same 16GB of VRAM, the main component that has become more expensive this year.\n\n### Radeon vs. GeForce: The Value Gap Remains Huge [...] The RX 9070 and 9070 XT have both increased in price by 12% month over month, with substantial price hikes in Canada making them less attractive in that region.\n\nRight now, on average, the XT model is 17% more expensive than the non-XT for about 12% more performance, keeping the RX 9070 in its \"better bang for buck\" position.\n\n##### AMD Radeon RX 9070",
+      "score": 0.9018604,
+      "raw_content": null,
+      "id": "ab914c-00"
+    },
+    {
+      "url": "https://www.pcguide.com/news/amd-gpu-prices-expected-to-rise-for-the-second-time-in-two-months-says-leak-as-rx-9070-xt-nears-1000",
+      "title": "AMD GPU prices expected to rise for the second time in two months, says leak, as RX 9070 XT nears $1,000 - PC Guide",
+      "content": "The news comes from a familiar source of hardware-related leaks and insider knowledge. ChannelGate, posting to the Chinese-language site Weixin (known as WeChat outside of the region), says an \u201capproximately 8-10% increase in DDR6 memory prices\u201d during Q3 2026 is the main reason why AMD is making its bundles for manufacturers more expensive. No real surprise here.\n\n### Latest tech deals.\n\nPrices correct as of November 5th, 2026. [...] A study completed last month showed that Nvidia GPU prices had risen more than 40% in the three months prior, while AMD\u2019s Radeon series managed to keep costs a little more under control, with a 28.3% rise. As such, further increases were always expected to catch up with AMD consumers, and it\u2019s looking like they\u2019ll finally face waves of price hikes as the end of 2026 nears. [...] ### Xbox streamlines its PC app, making it launch up to 60% faster\n\n### Itch.io outlines what the limit is for AI-generated content after its spree of mass deletion\n\nGTA 6 new screenshots\nGTA 6 new screenshots\n\n### Rockstar just published over 30 new GTA 6 screenshots\n\nCopyright \u00a9 2026 PC Guide. All rights reserved.",
+      "score": 0.88420963,
+      "raw_content": null,
+      "id": "65d59e-01"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking",
+      "title": "GPU price tracking 2026 \u2014 Lowest price on every graphics card from Nvidia, AMD, and Intel today | Tom's Hardware",
+      "content": "AMD's competition to Nvidia includes the Radeon RX 9060, RX 9070, and RX 9070 XT graphics cards with MSRP prices of $269, $549, and $599, respectively. Finding one of these GPUs for that price, however, could prove to be a struggle as prices of Radeon graphics cards rise due to ever-expanding memory price hikes. These new cards go toe-to-toe with Nvidia's RTX 5070 and RTX 5070 Ti and offer a great alternative to Team Green. [...] The RX 9070 XT comes with 16GB of GDDR6 VRAM for those texture-heavy games and provides a large generational increase compared to RDNA 3. Improvements to AI and ray tracing tech have made this generation of AMD cards perform much better in games with ray tracing, but they still fall behind Nvidia in overall performance for ray/path tracing. [...] Here are all the lowest prices for the 7000-series models currently available.\n\nGPU Model\n\n \n\nBest US Price\n\n \n\nLowest-Ever U.S. Price\n\n \n\nMSRP Launch Price\n\n \n\nRadeon RX 7900 XTX\n\n \n\nOut of Stock\n\n \n\n$749\n\n \n\n$999\n\n \n\nRadeon RX 7900 XT\n\n \n\n$559\n\n \n\n$749\n\n \n\nRadeon RX 7900 GRE\n\n \n\nOut of Stock\n\n \n\n$509\n\n \n\n$549\n\n \n\nRadeon RX 7800 XT\n\n \n\n$429\n\n \n\n$499\n\n \n\nRadeon RX 7700 XT\n\n \n\n$309\n\n \n\n$419\n\n \n\nRadeon RX 7600 XT\n\n \n\n$288\n\n \n\n$329\n\n \n\nRadeon RX 7600\n\n \n\n$239\n\n \n\n$269",
+      "score": 0.86358756,
+      "raw_content": null,
+      "id": "f60b3f-02"
+    },
+    {
+      "url": "https://www.techpowerup.com/354332/amd-reportedly-plans-another-radeon-gpu-and-gddr6-kit-price-hike-for-november",
+      "title": "AMD Reportedly Plans Another Radeon GPU and GDDR6 Kit Price Hike for November | TechPowerUp",
+      "content": "#14\nRulumi  \n\nAt this rate an RX 9070 XT is going to end up being $1000+ by December...  \n   \n Well, current market is awful for any non entry level GPU right now.\n\n#15\nNoci [...] that is still not the end. I predict 900\u20ac for a Radeon 9070 non XT in a few months for central europe.  \n PCB costs, copper, etc are all not factored in yet [...] This would add to a long list of reported increases this year. A 10% hike on Radeon GPU kits was reported for July, another 10% increase across GPUs, chipsets, and possibly CPUs followed in September, and AMD's suggested Radeon prices in China went up in early October. Retail prices are already moving, too. According to Hardware Unboxed's latest pricing survey, cited by Videocardz, the RX 9060 XT 16 GB costs 17% more than it did in September, while the RX 9070 and RX 9070 XT are up 12%. Of",
+      "score": 0.7680558,
+      "raw_content": null,
+      "id": "e9b2bb-03"
+    },
+    {
+      "url": "http://gamersnexus.net/gpus/gpu-prices-crater-inevitable-opportunity-screw-consumers",
+      "title": "GPU Prices Crater Before Inevitable Opportunity to Screw Consumers | GamersNexus",
+      "content": "Note: Collected using new, first-party listings from Newegg (collected 3/7, 6/12, and 11/26 of this year).\n\nThis table compiles all 9070 XT listings we\u2019ve pulled from Newegg since the GPU\u2019s launch, with AVGs inclusive of all models and prices collected in March, June, and November of this year.\n\nDuring its release, the 9070 XT\u2019s AVG price was $729, or 21.5% over MSRP. [...] |  |  |  |  |  |  |\n ---  ---  --- |\n| Card Model | Launch Prices | June Prices | November Prices | June Stock | November Stock |\n| ASRock Challenger | $600 | Yes |\n| ASRock RX 9070 XT Steel Legend | $600 | $700 | $620 | No | Yes |\n| ASRock RX 9070 XT Taichi | $730 | $850 | $680 | No | Yes |\n| ASRock Steel Legend Black |\n| ASUS PRIME | $600 | $600 | No | No |\n| ASUS RX 9070 XT Prime OC | $720 | $720 | $650 | No | Yes |\n| ASUS RX 9070 XT TUF OC | $800 | $800 | No | [...] | Gigabyte RX 9070 XT AORUS ELITE | $760 | $760 | No |\n| Gigabyte RX 9070 XT Gaming | $600 | $660 | No |\n| Gigabyte RX 9070 XT Gaming OC | $730 | $730 | $700 | No | Yes |\n| PowerColor RX 9070 XT Hellhound | $760 | $720 | No |\n| PowerColor RX 9070 XT Reaper | $600 | $600 | Yes |\n| PowerColor RX 9070 XT Red Devil | $800 |\n| Sapphire RX 9070 XT NITRO+ | $780 | $850 | $700 | Yes | Yes |\n| Sapphire RX 9070 XT Pulse | $600 | $800 | $650 | Yes | Yes |\n| Sapphire RX 9070 XT PURE | $740 |",
+      "score": 0.750937,
+      "raw_content": null,
+      "id": "993e75-04"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2kseJpFa6n0",
+      "title": "\ud83d\udea8 AMD RX 9070 XT Prices Are OUT OF CONTROL... Now Over $1,000?! \ud83d\udc80",
+      "content": "# \ud83d\udea8 AMD RX 9070 XT Prices Are OUT OF CONTROL... Now Over $1,000?! \ud83d\udc80\n## Channel: Chris Mizo\n13.8K subscribers\n68 likes\n\n### Description\n13,195 views\nPosted: 2026-10-08\nAMD RX 9070 XT Prices Are OUT OF CONTROL... Now Over $1,000?! \n\nWant to BUY a PC BUILD by CHRIS MIZO? \n\ud83d\uded2 \n\n\ud83d\uded2 FANTASTECH II-   \n\n\ud83c\udfa5 Join the Channel for Exclusive Perks & Behind-the-Scenes Access:\n\ud83d\udc49    / @chrismizo [...] NordVPN is amazing  for VPN service:you care about speed, privacy, and not getting tracked, NordVPN is the VPN that actually delivers.\n\u27a1\ufe0f \n\n get real answers on 2026\u2019s top PC trends.\n\n\ud83d\udcbb AM5 Budget Build 2025\n9600X \u27a1\ufe0f \nTUF B850 \u27a1\ufe0f \nLC 360 ARGB LCD \u27a1\ufe0f \nCorsair DDR5 32 GB \u27a1\ufe0f \nCrucial P3 Plus \u27a1\ufe0f \nMontech Air 903 Max \u27a1\ufe0f \nRX 9070 Nitro+ \u27a1\ufe0f \nSeasonic PX-1000 \u27a1\ufe0f [...] [7:20] Now you can see it's $950. As you guys know, this is typically a $800 card. So it went up $150. Um, now luckily they do\n[7:28] have a discount available. It's probably going to bring it back down to the 850.\n[7:32] I hope at least. No, $900. So it's still $50 more expensive than what it originally was. Now the 960 XT has even\n[7:42] gone up in price. $520 for this GPU. And as you can see, um, that's as of now.",
+      "score": 0.6829338,
+      "raw_content": null,
+      "id": "9835de-05"
+    }
+  ],
+  "response_time": 2.46,
+  "request_id": "2c58cce8-d089-4dd7-9d28-514becef000b"
+}

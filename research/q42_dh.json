@@ -1,0 +1,58 @@
+{
+  "query": "Distant Horizons VRAM requirement Sodium Iris 2026 heavy modpack 64GB RAM",
+  "follow_up_questions": null,
+  "answer": "For Distant Horizons VRAM requirement with Sodium Iris 2026 heavy modpack and 64GB RAM, the sources suggest a minimum of 4GB, with 6GB being the recommended amount for optimum performance without significant stuttering, especially below 256 chunks. Allocating more than 10GB can be problematic for the Java Garbage Collector unless using heavy terrain generation mods. For best performance with shaders, users are advised to allocate at least 8GB, with 12GB or more being optimal for systems with 32GB of RAM. The sources do not provide a definitive answer for the exact VRAM requirement for Sodium Iris 2026 heavy modpack specifically but suggest careful consideration for higher RAM allocations.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://modrinth.com/project/yiYYuulE",
+      "title": "Distant Horizons & Iris Shaders - Minecraft Modpack",
+      "content": "2GB - No, just No - This WILL crash your game, don't bother.\n 4GB - Minimum - Things will stutter slightly, although anything below 256 chunks should be fine.\n 6GB - Recommended - This is the optimum amount of RAM for Distant Horizons. This should be perfectly fine for playing with no to 20 light mods. [...] Ladies and Gentlemen, I'd like to extend a big thanks to SquireDot for maintaining this pack, his commitment to this project is extraordinary. I made this pack the day Distant Horizons released the shader compatability system but I definitely would not have been able to maintain it for long after so thank goodness I met this guy who can keep it alive! Thanks SquireDot! Cheers! -- Piotr Barcz\n\n### Requirements:\n\nBefore we begin, it is mandatory you increase your RAM allocation: [...] 10GB - Careful - This much RAM can sometimes be a bad thing for the Java Garbage Collector. Only use this if you are using a heavy terrain generation mod such as JJThunder To The Max or Big Globe.",
+      "score": 0.5806618,
+      "raw_content": null,
+      "id": "ba7fcd-00"
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/modpacks/distant-horizons-iris-shaders",
+      "title": "Distant Horizons & Iris Shaders - Minecraft Modpacks - CurseForge",
+      "content": "2GB - No, just No - This WILL crash your game, don't bother.\n 4GB - Minimum - Things will stutter slightly, although anything below 256 chunks should be fine.\n 6GB - Recommended - This is the optimum amount of RAM for Distant Horizons. This should be perfectly fine for playing with no to 20 light mods. [...] ### It is highly recommended you read through this description as it has fixes for common issues. Do not report bugs before doing so.\n\nTo celebrate the release of Distant Horizons 2.3, we have partnered up with Spark Hosting! Use one of their vast cheap plans to try out DH on a server!\n\nbanner\n\nRequirements: Before we begin, it is mandatory you increase your RAM allocation: [...] 10GB - Careful - This much RAM can sometimes be a bad thing for the Java Garbage Collector. Only use this if you are using a heavy terrain generation mod such as JJThunder To The Max or Big Globe.",
+      "score": 0.572078,
+      "raw_content": null,
+      "id": "4b33a8-01"
+    },
+    {
+      "url": "https://minecrafthub.io/modpacks/distant-horizons-iris-shaders",
+      "title": "Distant Horizons & Iris Shaders - 256 Chunk Fabric Modpack",
+      "content": "Four gigabytes is the minimum and six is the recommended figure. Two gigabytes crashes the game outright. Going past ten can actually hurt, because Java's garbage collector handles a very large heap poorly, so only allocate that much if you are also running a heavy terrain generation mod on top. [...] Distant Horizons builds its far terrain on the CPU, so this pack asks more of your processor and memory than of your graphics card, while the shader pack you add asks the opposite. That split is what makes the combination heavy on modest hardware. Memory is where most failed installs go wrong, and the requirements are blunt about it. [...] ## About\n\n\u00a9 2026 MinecraftHub.io",
+      "score": 0.56920683,
+      "raw_content": null,
+      "id": "fc5266-02"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xl2GEdIFf9g",
+      "title": "How to Install & Optimize Distant Horizons in Minecraft (Ultra Render Distance!)",
+      "content": "[5:32] have 16 GB of RAM total in your system then I would suggest you to uh allocate at least eight but for the best case\n[5:40] scenario I would suggest 12 or more but for me I have 32 so I will allocate uh\n[5:47] 12 GB of RAM in here then click on Save and then you can click play okay so after we've installed all of these mods\n[5:54] go into options then into video settings and if you've downloaded any shaders then enable them through through here and as you can see this makes Minecraft [...] Mods:\n\nShaders:\n\nTimestamps:\n0:00 Distant Horizons mod\n0:06 Requirements\n0:18 Mod list\n0:38 Installation Tutorial\n4:33 Shaders\n5:14 Ram allocation\n5:52 Best settings\n\n### Chapters\n[0:00] Distant Horizons mod\n[0:06] Requirements\n[0:18] Mod list\n[0:38] Installation Tutorial\n[4:33] Shaders\n[5:14] Ram allocation\n[5:52] Best settings [...] [5:06] before just go into your downloads folder and from here just drag and drop it into your Shader packs folder okay so\n[5:15] before playing with these mods go into the installations right here and then select the fabric mod loader and then click these three dots right here then\n[5:23] go into edit and then allocate more RAM I would advise you to allocate at least 8 gab if you can so for example if you",
+      "score": 0.40768766,
+      "raw_content": null,
+      "id": "def21b-03"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pIRSjKz9RLg",
+      "title": "Minecraft Never Looked This Good + Guide | Distant Horizons + Shaders",
+      "content": "[2:45] let's say 70% of it if you have 6 gigs give the game maybe 4 gigs so I'll change it from two to four in that case\n[2:53] in my case I have a ton of RAM available so I'll give it 16 gigs just for the best performance we'll save add and fire\n[3:00] up fabric loader 1 120.4 with the distant Horizons mod installed if we head across to percentage app DOA\n[3:08] percentage or C uses your username app datar roaming. Minecraft mods in here you'll see that the iris installer [...] [2:21] more options where we can now give the game more RAM by default Minecraft is limited to 2 gb but if you give it more RAM it'll perform much better if I open\n[2:30] up my task manager with control shift and Escape performance followed by memory you'll see that I'm using 30 of my 128 gigs of RAM of course you'll\n[2:39] probably be using four of your eight four of your 16 Etc of the available remaining Ram you can give Minecraft [...] [4:01] if you set this down to lower it'll use less vram meaning it can run on lesser gpus than CPU load if you set this up to\n[4:08] aggressive it'll load the surrounding environment really quickly and use tons of your CPU which should help you load the world quicker but of course you'll\n[4:15] need a more powerful system for this I've set this to aggressive from the default of balanced you can even set this up one more step to get the world",
+      "score": 0.3991562,
+      "raw_content": null,
+      "id": "c862d8-04"
+    },
+    {
+      "url": "https://apxml.com/courses/llm-model-sizes-hardware/chapter-2-essential-hardware-components/vram-role",
+      "title": "Role of VRAM for LLMs",
+      "content": "\u00a9 2026 ApX Machine Learning",
+      "score": 0.2881187,
+      "raw_content": null,
+      "id": "aa5936-05"
+    }
+  ],
+  "response_time": 2.55,
+  "request_id": "df15bafc-3682-4920-aa8a-fbb45a4aa2f7"
+}

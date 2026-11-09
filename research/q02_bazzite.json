@@ -1,0 +1,50 @@
+{
+  "query": "bazzite modded minecraft gaming pc",
+  "follow_up_questions": null,
+  "answer": "Bazzite is a Linux-based operating system designed for gaming, featuring native support for Steam, Proton, Flatpak, and tools like Lutris and MangoHud. It includes Steam pre-installed, HDR & VRR support, and improved CPU schedulers for responsive gameplay. The system is compatible with a wide range of games, including Minecraft, which can be launched using the Prism Launcher. For modded Minecraft, the sources suggest a gaming PC with a fast single-core CPU, at least 16GB of RAM, and a mid-range GPU with 8GB or more VRAM to handle shader packs and heavy modpacks. The sources do not provide specific details about a modded Minecraft gaming PC running on Bazzite.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://github.com/ublue-os/bazzite/issues/4145",
+      "title": "Bazzite memory leak running Prism Launcher (Minecraft) \u00b7 Issue #4145 \u00b7 ublue-os/bazzite \u00b7 GitHub",
+      "content": "Operating System: Bazzite 43 KDE Plasma Version: 6.5.5 KDE Frameworks Version: 6.22.0 Qt Version: 6.10.1 Kernel Version: 6.17.7-ba25.fc43.x86_64 (64-bit) Graphics Platform: Wayland Processors: 12 \u00d7 AMD Ryzen 5 7600X 6-Core Processor Memory: 32 GiB of RAM (30.5 GiB usable) Graphics Processor 1: AMD Radeon RX 7800 XT Graphics Processor 2: AMD Ryzen 5 7600X 6-Core Processor Manufacturer: Gigabyte Technology Co., Ltd. Product Name: B850M GAMING X WIFI6E System Version: Default string-CF-WCP-ADO [...] 0x164e deviceType = PHYSICAL_DEVICE_TYPE_INTEGRATED_GPU deviceName = AMD Ryzen 5 7600X 6-Core Processor (RADV RAPHAEL_MENDOCINO) driverID = DRIVER_ID_MESA_RADV driverName = radv driverInfo = Mesa 26.0.0 conformanceVersion = 1.4.0.0 deviceUUID = 00000000-1200-0000-0000-000000000000 driverUUID = 414d442d-4d45-5341-2d44-525600000000 GPU2: apiVersion = 1.4.335 driverVersion = 26.0.0 vendorID = 0x10005 deviceID = 0x0000 deviceType = PHYSICAL_DEVICE_TYPE_CPU deviceName = llvmpipe (LLVM 21.1.8, 256 [...] GPU0: apiVersion = 1.4.335 driverVersion = 26.0.0 vendorID = 0x1002 deviceID = 0x747e deviceType = PHYSICAL_DEVICE_TYPE_DISCRETE_GPU deviceName = AMD Radeon RX 7800 XT (RADV NAVI32) driverID = DRIVER_ID_MESA_RADV driverName = radv driverInfo = Mesa 26.0.0 conformanceVersion = 1.4.0.0 deviceUUID = 00000000-0300-0000-0000-000000000000 driverUUID = 414d442d-4d45-5341-2d44-525600000000 GPU1: apiVersion = 1.4.335 driverVersion = 26.0.0 vendorID = 0x1002 deviceID = 0x164e deviceType =",
+      "score": 0.61307496,
+      "raw_content": null,
+      "id": "6dfc61-00"
+    },
+    {
+      "url": "https://dtptips.com/windows-11-vs-bazzite-the-ultimate-os-battle-for-emulator-gaming",
+      "title": "Windows 11 vs Bazzite: The Ultimate OS Battle for Emulator Gaming - Digital Tech & Productivity Tips",
+      "score": 0.509887,
+      "content": "Bazzite is a Linux-based operating system built on the same framework as the Steam Deck\u2019s SteamOS. It\u2019s designed with gaming in mind and features native support for Steam, Proton, Flatpak, and tools like Lutris and MangoHud. For gamers who want to escape the bloat of Windows and still enjoy native and emulated titles, Bazzite offers a compelling package.\n\nOfficial Website: \n\n## \ud83d\ude29 What I Didn\u2019t Like About Bazzite [...] Mukti: The Indian Game Everyone Is Talking About \u2013 Full Breakdown of Story, Gameplay, and Development Journey\nThe Low-End Hero: 10 Classic 3D Games That Run Smoothly on Any PC (Part 1)\n22 Best Strategy Games to Flex Your Big Brain \u2013 Part 2\n\ud83d\udee0\ufe0f How to Fix the Skate Error: \u201cThis Software Cannot Be Used at the Same Time as Interception\u201d\nHow to Install Google Play Store on Windows 11 (and Windows 10)\n\ud83d\udd79\ufe0f How to Install 3DS Games Faster Using Custom Install (Full Step-by-Step Guide for Modded 3DS) [...] # Digital Tech & Productivity Tips\n\nDigital Tech Platform for Windows, Linux, Android, AI, Design & More\n\n## \n\n# Windows 11 vs Bazzite: The Ultimate OS Battle for Emulator Gaming",
+      "raw_content": null,
+      "id": "37ba53-01"
+    },
+    {
+      "url": "https://bazzite.gg",
+      "title": "Bazzite \u2013 The operating system for the next generation of gamers",
+      "content": "Bazzite is designed for Linux newcomers and enthusiasts alike with Steam pre-installed, HDR & VRR support, improved CPU schedulers for responsive gameplay, and numerous community-developed tools and tweaks to streamline your gaming and streaming experience. [...] Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.\n\n## Play your favorite games [...] Sea of Thieves\n\nSea of Thieves\n\nShot on Framework\n\nForza Horizon 5\n\nForza Horizon 5\n\nShot on Steam Deck\n\nSea of Thieves\n\nS.T.A.L.K.E.R. 2\n\nMinecraft\n\nUsing Prism Launcher\n\nNew to gaming on Linux? Check out Bazzite's Gaming Guide for up-to-date tips and tricks.\n\nWondering if your favorite games are compatible? Check the community-maintained compatibility lists:\n\nVisit ProtonDB   Visit GamingOnLinux",
+      "score": 0.4928966,
+      "raw_content": null,
+      "id": "f73d9d-02"
+    },
+    {
+      "url": "https://docs.bazzite.gg/Gaming",
+      "title": "Gaming Guides - Bazzite Documentation",
+      "content": "Skip to content\n\n# Gaming Guides\u00b6\n\n Introduction to Gaming on Bazzite\n Hardware Compatibility for Gaming\n Game Launchers\n Managing & Modding Games\n Launch Options and Environment Variables\n Common Gaming Issues",
+      "score": 0.4902606,
+      "raw_content": null,
+      "id": "abad3b-03"
+    },
+    {
+      "url": "https://pcgamingcases.co.uk/blogs/news/best-gaming-pc-for-minecraft-shaders-modpacks",
+      "title": "Best Gaming PC for Minecraft Shaders & Modpacks \u2013 pcgamingcases.co.uk",
+      "content": "Modded Minecraft behaves differently from shaders. Instead of pushing your GPU, large modpacks such as All The Mods, RLCraft, or Enigmatica lean on RAM and CPU threading. Each mod adds extra entities, calculations, and background processes. The more mods you run, the more memory the game needs allocated to it directly, not just installed on your system. [...] ## Quick Answer\n\nThe best gaming PC for Minecraft shaders and modpacks needs three things. First, a fast single core CPU for smooth world generation. Second, at least 16GB of RAM, or 32GB for heavy modpacks. Third, a mid range GPU with 8GB or more VRAM to handle shader packs like Complementary or BSL without frame drops. A build with a Ryzen 5 or Core i5 processor, an RTX 4060 or RTX 5060, and 16GB to 32GB of RAM covers most players comfortably at 1080p or 1440p. [...] Vanilla Minecraft: CPU dependent, runs on almost anything\n Minecraft with shaders: GPU and VRAM dependent\n Modded Minecraft (modpacks): RAM and CPU dependent, with GPU load increasing if the modpack includes visual mods\n\nUnderstanding which category you fall into is the first step to choosing the right PC.\n\n## Minecraft Shaders PC Requirements\n\nIf your main goal is running shader packs smoothly, here is what you actually need at each resolution and shader intensity level.",
+      "score": 0.45842203,
+      "raw_content": null,
+      "id": "a7f0c8-04"
+    }
+  ],
+  "response_time": 2.33,
+  "request_id": "b8cb6b43-ffa4-4744-89c0-6aca2a4b1607"
+}

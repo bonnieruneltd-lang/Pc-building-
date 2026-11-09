@@ -1,0 +1,50 @@
+{
+  "query": "Ryzen 7 9850X3D review Minecraft benchmark 9800X3D comparison",
+  "follow_up_questions": null,
+  "answer": "The Ryzen 7 9850X3D review benchmarks show it is around 3\u20134% faster in gaming compared to the 9800X3D, with a notable 6\u20137% improvement in single-threaded productivity tasks. This comes at the cost of a ~30% increase in power draw, with the 9850X3D consuming 106W vs the 9800X3D's 81W in gaming scenarios. The marginal gaming performance gain is particularly evident in titles like Flight Simulator 24, where the 9850X3D leads by 6.2% over the 9800X3D. However, the power consumption and thermal implications make the upgrade less compelling for those already owning a 9800X3D.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.youtube.com/watch?v=-InE1Nebnj8",
+      "title": "AMD Ryzen 7 9850X3D CPU Review & Benchmarks | Gaming, Power, & Thermals, ft. DDR5-4800",
+      "content": "00:00 - AMD Ryzen 7 9850X3D CPU Review\n03:31 - R7 9850X3D Specs vs 9800X3D\n05:14 - Frequency Validation: All-Core\n06:11 - Frequency Validation: Single-Thread\n07:03 - Voltage Comparison: All-Core 9850X3D vs 9800X3D\n07:25 - Voltage Comparison: Single-Thread\n07:49 - Thermal Benchmark: 9850X3D vs 9800X3D\n08:51 - Power Consumption: 9850X3D vs 9800X3D Peak Load\n09:36 - Baldur's Gate 3 9850X3D Gaming Performance\n10:49 - The Outer Worlds 2 - 1080p Best Gaming CPUs [...] [18:54] Eventually, with the 9850 XD at 152,000 MIPS, the improvement over the 9800 XD drops to about 3% for the prior 3.4%.\n[19:03] So, the frequency has less of an impact in this test than the compression test.\n[19:06] In Blender rendering, which runs tilebased rendering for each thread, the 16 core parts predictably performed the best. Frequency doesn't have as much of\n[19:14] an impact here. The 9850 XD required 11.2 minutes to complete the render, effectively tying with the 9800 XD. [...] ### Chapters\n[0:00] AMD Ryzen 7 9850X3D CPU Review\n[3:31] R7 9850X3D Specs vs 9800X3D\n[5:14] Frequency Validation: All-Core\n[6:11] Frequency Validation: Single-Thread\n[7:03] Voltage Comparison: All-Core 9850X3D vs 9800X3D\n[7:25] Voltage Comparison: Single-Thread\n[7:49] Thermal Benchmark: 9850X3D vs 9800X3D\n[8:51] Power Consumption: 9850X3D vs 9800X3D Peak Load\n[9:36] Baldur's Gate 3 9850X3D Gaming Performance\n[10:49] The Outer Worlds 2 - 1080p Best Gaming CPUs",
+      "score": 0.84215075,
+      "raw_content": null,
+      "id": "b8af2f-00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1bLxISq3oV4",
+      "title": "Ryzen 7 9850x3D vs 9800x3D vs 7800x3D! \ud83d\udcaa",
+      "content": "[3:28] And we've got this running in the ultra preset. Running around Hogsme is one of the most demanding areas on the CPU. And you can start to see the differences here. The 9850 X3D has a decent lead\n[3:37] over the 9800 X3D, averaging around 10 FPS more in both the 1% lows and the average. Whereas the 7800 X3D is really\n[3:44] starting to fall off, averaging 150 FPS compared to 188 or 198 compared to the 9inth generation chips. If you've [...] [12:04] old. That's a big improvement. However, compared to the 9800 X3D, the 9850 X3D offered an increase of about 3% more\n[12:11] FPS. To sum up, the 9850 X3D is the fastest gaming CPU you can buy right now. It's about 3% faster on average\n[12:19] than the 9800 X3D in our test while costing just over 11% more. It's basically a 9800 X3D with an overclock.\n[12:27] And it reminds me a lot of what Intel used to do with the 3900 KS and 14900 KS CPUs. What I'm glad to see though is [...] [2:05] 9850X3D is pretty much minimal. Again, we've got an average difference of 6 FPS, but depending on the scene and the time and who's on the screen at what\n[2:14] particular moment, sometimes the 9800 X3D is a little bit higher. And you can see that in the average 1% lows. It actually slightly higher than the\n[2:21] 9850X3D. Again, it's all about what's going on on the screen at the time.",
+      "score": 0.82254606,
+      "raw_content": null,
+      "id": "3ee34e-01"
+    },
+    {
+      "url": "https://techsavant.co.uk/ryzen-7-9800x3d-vs-9850x3d",
+      "title": "AMD Ryzen 7 9800X3D vs 9850X3D: Gaming & Editing Benchmarks | TechSavant",
+      "content": "Both chips were tested extensively at 1080p (the resolution that best exposes CPU differences) in multiple independent reviews, pairing each CPU with an RTX 5090 to eliminate any GPU bottleneck. Here\u2019s what the data consistently shows across 16+ game averages:\n\n211\n\n9850X3D avg FPS  \n(16-game geomean)\n\n205\n\n9800X3D avg FPS  \n(16-game geomean)\n\n~3%\n\nAverage gaming advantage  \n(9850X3D over 9800X3D)\n\n+30%\n\nPower draw increase  \n(106W vs 81W in gaming) [...] By Andrei F. \u00b7 11 Apr 2026 \u00b7 8 min read\n\n9950x3d_vs_9800x3d\n\nAMD Ryzen 7 9800X3D vs 9850X3D: Gaming & Editing \u2014 TechSavant\n\nShort answer: The 9850X3D is around 3\u20134% faster in gaming and 6\u20137% better in single-threaded productivity. It draws ~30% more power to get there. If you\u2019re building fresh, it\u2019s a reasonable choice at ~\u00a330 more \u2014 but if you already own a 9800X3D, there\u2019s no case for upgrading. [...] The advantage extends slightly to 1% lows. Tom\u2019s Hardware measured the 9850X3D at 147 FPS vs 142 FPS for the 9800X3D across a 16-game geomean \u2014 a 3.5% improvement. The notable exception was DOOM: The Dark Ages, where the 9850X3D had 12.6% better 1% lows despite near-identical average frame rates. Smoother frame pacing from the higher clock speed appears to help in certain engine types even when the average FPS difference is trivial.\n\n## Video editing and productivity",
+      "score": 0.8058924,
+      "raw_content": null,
+      "id": "4d437e-02"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-review/2",
+      "title": "AMD Ryzen 7 9850X3D Gaming Benchmarks - AMD Ryzen 7 9850X3D review: The world's fastest gaming processor, again - Page 2 | Tom's Hardware",
+      "content": "The Ryzen 7 9850X3D is the world\u2019s fastest gaming processor, if only by 3.3%. It\u2019s faster than the Ryzen 7 9800X3D, regardless of how marginal that victory is and how little it meaningfully impacts the gaming experience. Then again, if you already own the Ryzen 7 9800X3D, you probably never planned on upgrading to the Ryzen 7 9850X3D. [...] Flight Simulator 24 is notoriously heavy on the CPU, and it\u2019s one of the few titles that benefits more from cores and clocks than it does from the addition of extra L3 cache. This is one of the few titles where the flagship Ryzen 9 9950X3D offers a lead over its cut-down, eight-core sibling, but the Ryzen 7 9850X3D manages to set a new bar 6.2% ahead of the Ryzen 7 9800X3D. That comes with a large increase in power consumption, mind you, but it\u2019s still one of the clearer wins we saw for the [...] The real battle is between the Ryzen 7 9850X3D and Ryzen 7 9800X3D, and there\u2019s more working in favor of the Ryzen 7 9800X3D than just price. With its 400MHz clock boost, the Ryzen 7 9850X3D consumes much more power. In our test suite, it consumed nearly 31% more power, ran hotter as a result, and was only marginally more efficient than the Ryzen 7 9700X; the Ryzen 7 9800X3D is still the most efficient offering in our test pool.",
+      "score": 0.80070794,
+      "raw_content": null,
+      "id": "5b71a2-03"
+    },
+    {
+      "url": "https://forums.flightsimulator.com/t/ryzen-7-9850x3d-6-faster-than-9800x3d-the-world-s-best-gaming-cpu-tests-comparisons-and-rumors/755705",
+      "title": "Ryzen 7 9850X3D 6% faster than 9800X3D? - the world\u2019s best gaming CPU? tests, comparisons and rumors - Hardware & Peripherals - Microsoft Flight Simulator Forums",
+      "content": "Source\n\n### AMD Ryzen 7 9850X3D review: The world's fastest gaming processor, again\n\n3% more performance, 30% more power; the Ryzen 7 9850X3D's victories feel hollow.\n\nPowered by Discourse, best viewed with JavaScript enabled [...] Flight Simulator 24 is notoriously heavy on the CPU, and it\u2019s one of the few titles that benefits more from cores and clocks than it does from the addition of extra L3 cache. This is one of the few titles where the flagship Ryzen 9 9950X3D offers a lead over its cut-down, eight-core sibling, but the Ryzen 7 9850X3D manages to set a new bar 6.2% ahead of the Ryzen 7 9800X3D. That comes with a large increase in power consumption, mind you, but it\u2019s still one of the clearer wins we saw for the [...] The base clock of the Ryzen 7 9850X3D is 4.7 GHz, while the Ryzen 9 9950X3D2 sits at 4.3 GHz. Clock speed definitely affects gaming performance - though, of course, it\u2019s not the only factor.",
+      "score": 0.7539928,
+      "raw_content": null,
+      "id": "7cec03-04"
+    }
+  ],
+  "response_time": 2.63,
+  "request_id": "9e81b4f8-9ba6-448b-8620-00077a27309b"
+}

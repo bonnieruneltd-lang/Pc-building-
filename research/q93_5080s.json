@@ -1,0 +1,50 @@
+{
+  "query": "RTX 5080 Super price November 2026 in stock review launch",
+  "follow_up_questions": null,
+  "answer": "As of November 9, 2026, the RTX 5080 Super's price and stock status remain uncertain. While the RTX 5080 16GB has seen significant price hikes, with prices in the US now 120% over the MSRP at $2,200, the RTX 5080 Super is rumored to upgrade the memory to 24GB but its launch is on hold due to 3GB GDDR7 pricing issues. The RTX 5080 Super's launch timeline is uncertain, with some reports suggesting a potential delay to 2027 due to supply constraints and shifting GPU priorities toward AI. The RTX 5080 Super's price is not given in the sources.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.techradar.com/computing/gpu/the-probability-is-extremely-high-that-nvidias-rumored-rtx-5080-super-has-been-delayed-and-with-gpu-prices-rocketing-upwards-the-future-looks-bleak",
+      "title": "The 'probability is extremely high' that Nvidia's rumored RTX 5080 Super has been delayed, and with GPU prices rocketing upwards, the future looks bleak | TechRadar",
+      "content": "What TechSpot's monitoring data for October 2026 shows is that, as we already knew, high-end pricing has gone even further off the rails. The RTX 5080 is up 39% in the US and 40% in Germany month-on-month, for example, which is ludicrous, frankly \u2014 in the US it's now 120% over the MSRP at $2,200. The UK has seen an 8% hike over the past month, with this GPU now 40% over its MSRP in the country. Globally, it's 77% over Nvidia's recommended price on average. [...] The RTX 5060 is creeping up in price in some European countries, too \u2014 it's up 7% in the UK and 13% in Germany. The RTX 5060 Ti 8GB has gone up more, with this GPU getting hiked by 10% in the UK, so it's now \u00a3440 compared to \u00a3350 back at the start of 2026. The 5060 Ti 8GB went up 6% in the US, too, so it's now 40% over the MSRP in total. [...] We were told via other rumor peddlers that the 24GB spin on the RTX 5080 is theoretically planned for a January 2027 launch, but Benchlife asserts that the release date \"remains unclear\" and that Nvidia's board manufacturing partners have yet to receive any design details for the new model.\n\nLatest Videos FromTechRadar\n\nWatch full video here:",
+      "score": 0.6952351,
+      "raw_content": null,
+      "id": "46db41-00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KQOnBf9sMnQ&vl=en",
+      "title": "RTX 5080 Price Hits $2,499: Why It Climbed and What to Buy Instead (October 2026)",
+      "content": "### Description\n667 views\nPosted: 2026-10-27\nRTX 5080 prices, checked October 27, 2026. Nvidia launched the GeForce RTX 5080 at $999; today Micro Center lists models from $1,829.99 to $2,499.99. We walk through today's real prices, how the card got here (GPU kit price reports, Best Buy's July increase, China wholesale prices), why graphics memory is the story, the rumored 24GB RTX 5080, and what to do if you need a card now. [...] [1:18] So, if you walk into a MicroEnter today, that's the number you're most likely to see on the tag. And at the top,\n[1:26] [music] an Asus Pro Art and a Gigabyte Orus Infiniti, both at $24.99.99.\n[1:32] Our math, [music] that top price is $1,500 over the launch price for the same chip and the same memory you would have gotten in 2025.\n[1:40] Even the common price is about $350 over the RTX 590s launch price. That's the step down card. [...] Q: How much is an RTX 5080 right now?\nA: On October 27, Micro Center's in-stock RTX 5080s ran $1,829.99 to $2,499.99; the lowest new listing we saw anywhere was $1,699.99 at Best Buy.\n\nQ: Is the RTX 5080 16GB discontinued?\nA: Reported, not confirmed. Nvidia has not announced a 24GB RTX 5080 or its price.\n\n\ud83d\udd17 Share:",
+      "score": 0.6615081,
+      "raw_content": null,
+      "id": "1116cc-01"
+    },
+    {
+      "url": "https://www.techpowerup.com/354315/nvidia-reportedly-moves-up-rtx-5080-24-gb-launch",
+      "title": "NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch | TechPowerUp",
+      "content": "NVIDIA's GeForce RTX 5080 24 GB might arrive sooner than expected. A new post from Board Channels' ChannelGate account claims NVIDIA is speeding up the launch, with availability now expected around January 2027 and December 2026 as the earliest option. Earlier this month, various sources relayed that the card was reportedly planned for Q1 2027. The same post says NVIDIA will stop supplying the RTX 5080 16 GB and the RTX 5090 D V2 to China, leaving the 24 GB RTX 5080 as the only flagship model [...] cost around 19,999 yuan (nearly $3,000) in China, while the 16 GB model already sells for close to $2,000 at U.S. retailers, double its $999 MSRP. With the memory shortage expected to get worse in 2027, it's reasonable to expect the 24 GB card to be both expensive and hard to find. [...] Oct 25th 2026 GeForce Unlocked: Modders Boost RTX 20, RTX 30, and RTX 40 Compute Performance by Up to 2x (56)\n Jul 10th 2026 NVIDIA Readies GeForce RTX 5090 SE Graphics Card (178)\n Dec 31st 2025 Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI Industry Demand (124)\n Sep 13th 2026 AI Firms Are Reportedly Buying NVIDIA RTX 5090 GPUs in Bulk for Server Use (112)\n Aug 30th 2026 PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 (24)",
+      "score": 0.638588,
+      "raw_content": null,
+      "id": "e5ddcf-02"
+    },
+    {
+      "url": "https://www.tweaktown.com/hubs/nvidia-geforce-rtx-5080-super/index.html",
+      "title": "NVIDIA GeForce RTX 5080 SUPER Hub - Tech News, Reviews & Guides | TweakTown",
+      "content": "### NewsNVIDIA's RTX 50 Super GPUs have reached board partners, but launch is on hold over 3GB GDDR7 pricing\n\nJuly 17, 2026 | The 3GB GDDR7 chips the Super series depends on cost three times more than standard modules, adding hundreds of dollars to each card's bill...\n\nClose-up of a GeForce RTX graphics card showing its backplate, cooling fins and power connector.\n\n### NewsRTX 5080 Super appears in Seasonic PSU calculator with 24GB GDDR7 and 415W TDP [...] A lineup of NVIDIA GeForce RTX graphics cards from different brands, including black, silver, and white triple-fan models.\n\n### NewsNVIDIA's RTX 50 Super GPUs have reached board partners, but launch is on hold over 3GB GDDR7 pricing\n\nJuly 17, 2026 | The 3GB GDDR7 chips the Super series depends on cost three times more than standard modules, adding hundreds of dollars to each card's bill...\n\nClose-up of a GeForce RTX graphics card showing its backplate, cooling fins and power connector. [...] NVIDIA's GeForce RTX 5080 SUPER is rumored to be a mid-generation refresh of the RTX 5080, expected to upgrade the standard card's 16GB GDDR7 memory to 24GB of faster GDDR7 VRAM while retaining a similar Blackwell GPU configuration. Leaks suggest modest performance gains and improved 4K gaming and AI workloads, but the launch timeline remains uncertain, with reports indicating the RTX 50 SUPER series could be delayed to 2027 due to GDDR7 supply constraints and shifting GPU priorities toward AI",
+      "score": 0.61834323,
+      "raw_content": null,
+      "id": "b0e098-03"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking",
+      "title": "GPU price tracking 2026 \u2014 Lowest price on every graphics card from Nvidia, AMD, and Intel today | Tom's Hardware",
+      "content": "There are 8GB variants of the RTX 5060 and 5060 Ti, available at near MSRP prices, with the higher-tier GPUs like the RTX 5070 Ti and RTX 5080 in poor supply at any reasonable price.\n\nGPU Model\n\n \n\nBest US Price\n\n \n\nLowest-Ever U.S. Price\n\n \n\nMSRP Launch Price\n\n \n\nGeForce RTX 5090\n\n \n\n$1,999\n\n \n\n$1,999\n\n \n\nGeForce RTX 5080\n\n \n\n$929\n\n \n\n$999\n\n \n\nGeForce RTX 5070 Ti\n\n \n\n$729\n\n \n\n$749\n\n \n\nGeForce RTX 5070\n\n \n\n$479\n\n \n\n$549\n\n \n\nGeForce RTX 5060 Ti 16GB\n\n \n\n$379\n\n \n\n$429\n\n \n\nGeForce RTX 5060 Ti 8GB",
+      "score": 0.6108487,
+      "raw_content": null,
+      "id": "3095ee-04"
+    }
+  ],
+  "response_time": 2.44,
+  "request_id": "b45ecaf7-11dc-4004-962d-61ace3114606"
+}

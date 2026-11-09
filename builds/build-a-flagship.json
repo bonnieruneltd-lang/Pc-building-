@@ -1,0 +1,85 @@
+{
+  "id": "build-a-flagship",
+  "name": "A — Flagship \"No Compromise\" (modded MC + shaders + Distant Horizons at 1440p/4K)",
+  "currency": "USD",
+  "price_date": "2026-11-09",
+  "target": "Heavily modded Minecraft (Fabric/NeoForge 1.21.x + 26.x packs), Iris shaders, Distant Horizons, 128x resource packs, on Bazzite",
+  "parts": {
+    "cpu": {
+      "name": "AMD Ryzen 7 9850X3D",
+      "price": 484.00,
+      "socket": "AM5",
+      "tdp_w": 120,
+      "peak_w": 162,
+      "cores": "8C/16T",
+      "l3_mb": 96,
+      "why": "Fastest Minecraft CPU money can buy: 96 MB 3D V-Cache + 5.6 GHz boost. Minecraft's tick/render loop is single-thread + cache-bound, so this is the single highest-impact part in the build."
+    },
+    "cooler": {
+      "name": "Arctic Liquid Freezer III Pro 360",
+      "price": 94.00,
+      "type": "aio",
+      "radiator_mm": 360,
+      "why": "9850X3D pulls ~106 W in games and boosts on temperature; a 360 AIO keeps clocks pinned and is near-silent on a 120 W chip."
+    },
+    "motherboard": {
+      "name": "MSI MAG X870 Tomahawk WiFi",
+      "price": 259.99,
+      "socket": "AM5",
+      "chipset": "X870",
+      "ram_type": "DDR5",
+      "dimm_slots": 4,
+      "m2_slots": 4,
+      "pcie5_x16": true,
+      "why": "Strong VRM for an X3D chip, PCIe 5.0 x16 + PCIe 5.0 M.2, 2.5G LAN + WiFi 7, and mature Linux support (Intel/Realtek NICs and MediaTek/Qualcomm WiFi are well covered by in-kernel drivers)."
+    },
+    "memory": {
+      "name": "64 GB (2x32 GB) DDR5-6000 CL30 EXPO",
+      "price": 1049.99,
+      "type": "DDR5",
+      "capacity_gb": 64,
+      "sticks": 2,
+      "speed_mts": 6000,
+      "why": "DDR5-6000 CL30 is the AM5 1:1 sweet spot. 2 sticks only (4 DIMMs on AM5 forces ~4800-5200 MT/s and adds latency, which hurts Minecraft). 64 GB covers a 12-16 GB modpack heap + Bazzite + browser + shader compile spikes."
+    },
+    "gpu": {
+      "name": "AMD Radeon RX 9070 XT 16 GB",
+      "price": 729.99,
+      "vendor": "AMD",
+      "vram_gb": 16,
+      "tdp_w": 304,
+      "length_mm": 330,
+      "why": "Best Minecraft-shader performance per dollar in the Nov-2026 market, 16 GB VRAM for 128x packs + Distant Horizons, and the best-behaved GPU on Bazzite (RADV/Mesa; ~92% of Windows perf vs NVIDIA's regression)."
+    },
+    "storage": {
+      "name": "WD_BLACK SN850X 2 TB NVMe",
+      "price": 379.99,
+      "interface": "PCIe 4.0 x4 M.2",
+      "capacity_gb": 2000,
+      "why": "Modpack instances are tens of GB and churn thousands of small files; a DRAM-cached Gen4 drive cuts world-load and chunk-generation stalls. Add a second 2 TB drive later for a separate instance library."
+    },
+    "psu": {
+      "name": "MSI MPG A1000GS 1000 W (ATX 3.1, 80+ Gold)",
+      "price": 109.99,
+      "wattage": 1000,
+      "atx_31": true,
+      "connector_12v2x6": true,
+      "why": "1000 W gives ~90% headroom over this build's ~530 W peak, runs in its efficiency band, and leaves room for a 600 W-class GPU upgrade."
+    },
+    "case": {
+      "name": "Lian Li Lancool 217",
+      "price": 119.99,
+      "form_factor": "ATX mid-tower",
+      "max_gpu_mm": 380,
+      "max_cooler_mm": 180,
+      "why": "Five included fans, top-tier thermals in 2026 round-ups, 380 mm GPU clearance and room for a 360 mm radiator up top. No proprietary RGB software is required (matters on Bazzite — OpenRGB covers it)."
+    }
+  },
+  "peripherals": {
+    "monitor": {
+      "name": "MSI MAG 272QP X24 27\" 1440p 240 Hz QD-OLED",
+      "price": 399.99,
+      "why": "Minecraft with shaders is a motion-heavy, dark-scene-heavy game: OLED contrast + 240 Hz makes shader packs look dramatically better than a 60 Hz IPS, and 1440p keeps VRAM in check."
+    }
+  }
+}

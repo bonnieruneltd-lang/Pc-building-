@@ -1,0 +1,58 @@
+{
+  "query": "best SSD for gaming 2026 price 2TB NVMe NAND price increase",
+  "follow_up_questions": null,
+  "answer": "For 2026, the best 2TB NVMe SSD for gaming is the Crucial T700 with heatsink, priced at $235, offering PCIe Gen5 speeds that are 70% higher than Gen4 drives, making it a standout pick. The Kingston NV3 2TB NVMe SSD is also noted for its competitive price of $380, with a significant price increase of 153.3% from November 12, 2025, to March 12, 2026. The WD Black SN850X 2TB NVMe SSD saw a price increase of 84.2% over the same period, rising to $350. SSD prices in 2026 are still elevated due to a projected NAND shortage until 2030, with some drives seeing prices drop while others continue to climb.",
+  "images": [],
+  "results": [
+    {
+      "url": "http://gamersnexus.net/features/ssds-wtf",
+      "title": "SSDs: WTF? | GamersNexus",
+      "content": "| GamersNexus11/12/2025 to 03/12/2026 |\n| 2 TB NVMe SSDs (M.2 PCIe 4.0 X4) | Price (11/12) | Price (03/12) | Price Increase (%) |\n| fanxiang S880 NVMe SSD 2TB [HMB] | $135.00 | $300.00 | 122.2% |\n| Crucial P310 2 TB M.2-2280 PCIe 4.0 X4 NVME SSD [HMB] | $145.00 | $300.00 | 106.9% |\n| WD\\_Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME SSD [DRAM] | $190.00 | $350.00 | 84.2% |\n| Kingston NV3 2 TB M.2-2280 PCIe 4.0 X4 NVME SSD [HMB] | $150.00 | $380.00 | 153.3% | [...] | SSD Price Trend | M.2 NVMe SSD (2 TB) | GamersNexus11/12/2025 to 03/12/2026 |\n| 2 TB NVMe SSDs (M.2 PCIe 4.0 X4) | Price (11/12) | Price (03/12) | Price Increase (%) |\n| Crucial P310 2 TB M.2-2280 PCIe 4.0 X4 NVME SSD | $145.00 | $300.00 | 106.9% |\n| WD\\_Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME SSD | $190.00 | $350.00 | 84.2% |\n| Kingston NV3 2 TB M.2-2280 PCIe 4.0 X4 NVME SSD | $150.00 | $380.00 | 153.3% | [...] | SSD Price Trend | 2.5\" SATA SSD (2 TB) | GamersNexus11/12/2025 to 03/12/2026 |\n| 2 TB 2.5\" SATA SSDs (SATA 6.0 Gb/s) | Price (11/12) | Price (03/12) | Price Increase (%) |\n| PNY CS900 2 TB 2.5\" SSD | $153.00 | $220.00 | 43.8% |\n| Crucial BX500 2 TB 2.5\" SSD | $130.00 | $230.00 | 76.9% |\n| TEAMGROUP T-Force Vulcan Z 2 TB 2.5\" SSD | $118.00 | $230.00 | 94.9% |\n| Samsung 870 Evo 2 TB 2.5\" SSD | $190.00 | $360.00 | 89.5% |\n| Averages | $147.75 | $260.00 | 76.3% |",
+      "score": 0.91175514,
+      "raw_content": null,
+      "id": "50326a-00"
+    },
+    {
+      "url": "https://www.maxmybuild.com/guides/choosing-parts/best-ssd-for-gaming-2026",
+      "title": "Best SSD for Gaming in 2026: NVMe and SATA Picks by Budget | MaxMyBuild",
+      "content": "The best SSD for most gaming builds in 2026 is the Kingston NV3 1TB (around $155 on Amazon): PCIe Gen4, 6,000 MB/s reads, and the lowest price among reliable NVMe drives in this guide. For those willing to spend $20 more, the Crucial P310 1TB ($175) hits 7,100 MB/s \u2014 right at the practical speed ceiling where gaming load times stop improving meaningfully. For 2TB, the Crucial T700 2TB with heatsink ($235) is the standout pick: PCIe Gen5 speeds at a price that beats most Gen4 2TB drives. [...] The Crucial BX500 is available in 1TB ($175) and 2TB ($247) in 2.5-inch form factor. QLC NAND (Quad-Level Cell, a higher-density NAND type with lower write endurance than TLC), 540/500 MB/s. No cache. [...] To put the value in context: the WD Black SN7100 2TB costs $295 with Gen4 speeds of 7,250/6,900 MB/s. The T700 2TB with heatsink costs $60 less for Gen5 speeds that are 70% higher. This pricing gap is real: the T700 launched in 2023 and prices have dropped substantially since then, while the SN7100 is a 2025 drive still at launch pricing. The 4GB DRAM buffer means sustained write performance holds up better than any other drive in this guide.",
+      "score": 0.8965509,
+      "raw_content": null,
+      "id": "8796f7-01"
+    },
+    {
+      "url": "https://dropreference.com/en/blog/news/ssd-price-increase-2026-nand-flash-crisis",
+      "title": "SSD prices 2026: price chart and current US deals",
+      "content": "Phison anticipates a NAND shortage until 2030. SSD prices observed in August 2026, causes of the crisis, and buying advice.\n\n2TB NVMe SSD 2026: PCIe 4 vs 5, prices and picks\n\n### 2TB NVMe SSD 2026: PCIe 4 vs 5, prices and picks\n\n990 PRO, SN850X, or NM790: a 2TB PCIe 4.0 SSD is enough for gaming. The T700 PCIe 5 is $788 on 3 October 2026 (from \u20ac702) only if that premium is worth it. [...] The short version: SSD prices are still far above 2025 levels. Some high-end drives are back below their April peak (Samsung 9100 Pro 2TB: $478 in April, $399 today), while others kept climbing (9100 Pro 1TB: $262, now $295). On October 11, 2026, the best US offers in our catalog put a 1TB Gen4 NVMe SSD at $144 and a 2TB drive between $253 and $354 depending on the model. A WD Black SN850X 2TB now starts at $354. [...] | SSD | Capacity | 2025 low (US) | April 2026 (US) | April increase | October 2026 (best US offer) |\n ---  ---  --- |\n| Samsung 9100 Pro | 1TB | $124 | $262 | +111% | $295 (Newegg) |\n| WD Black SN8100 | 1TB | $149 | $285 | +91% | Not tracked |\n| Crucial T710 | 2TB | $179 | $323 | +80% | Not tracked |\n| Samsung 9100 Pro | 2TB | $189 | $478 | +153% | $399 (Newegg) |\n| Corsair MP700 Pro | 2TB | $179 | $474 | +165% | Not tracked |\n| Kingston NV3 (Gen4) | 1TB | ~$80 | $163 | +104% | Not tracked |",
+      "score": 0.8893851,
+      "raw_content": null,
+      "id": "922bf7-02"
+    },
+    {
+      "url": "https://www.newegg.com/insider/best-nvme-ssds-2026",
+      "title": "Best NVMe SSDs in 2026",
+      "content": "(1,277)SAMSUNG SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,700MB/s, Best for AI Computing, Gaming, and Heavy Duty Workstations (MZ-VAP2T0B/AM)$399.99$679.99 Save 41%(5)Crucial E100 2TB M.2 2280 NVMe PCI-Express 4.0 x4 PCIe Gen4 Internal SSD - Up to 5,000MB/s - CT2000E100SSD8$248.99(14)Team Group NV5000 M.2 2280 2TB PCIe 4.0 x4 with NVMe Internal Solid State Drive (SSD) TM8FGM002T0C101$290.99(57)SAMSUNG 990 PRO with Heatsink Gaming Package 2TB NVMe M.2 2280 Internal Solid [...] | Samsung 990 | 2TB | PCIe 4.0 x4 | 7,250 / 6,450 MB/s | 800TBW | Everyday 2TB |\n| WD Blue SN5100 | 4TB | PCIe 4.0 x4 | 6,900 / 6,700 MB/s | 1200TBW | Bulk capacity |\n| WD_BLACK SN850X | 8TB | PCIe 4.0 x4 | 7,200 / 6,600 MB/s | 4800TBW | One drive, no deleting |\n| Corsair MP600 ELITE | 4TB | PCIe 4.0 x4 | 7,000 / 6,500 MB/s | 1200TBW | 4TB with a heatsink |\n| PNY CS2142 | 1TB | PCIe 4.0 x4 | 4,900 / 3,200 MB/s | Not listed | Handhelds and 2230 slots |",
+      "score": 0.88564163,
+      "raw_content": null,
+      "id": "e47883-03"
+    },
+    {
+      "url": "https://www.qootec.com/ssd-price-trend-2026-storage-investments",
+      "title": "SSD Price Trend 2026: 1TB and 2TB NVMe Buying Outlook",
+      "content": "The reason is NAND supply. TrendForce reported on March 31, 2026 that NAND Flash contract prices were projected to rise sharply in 2Q26, driven by AI server and data center demand. TrendForce also noted that NAND capacity is increasingly being allocated to enterprise SSDs, while consumer applications scale back under cost pressure. That matters for ordinary 1TB and 2TB NVMe buyers because consumer SSD pricing does not move in isolation. [...] TrendForce\u2019s NAND Flash price page listed 1Q26 PC-client OEM SSD contract prices for value-grade PCIe TLC drives, including a 1TB mSATA/M.2 TLC PCIe value-grade average of 153.90 and a 512GB average of 97.10. These are contract-market snapshots, not universal online retail prices, but they are useful because they show the cost base that many downstream SSD quotes sit on top of. [...] Updated August 5, 2026. Halfway through the year, the 2026 price story has two chapters. Contract prices surged more than 100% across the first half, with the steepest quarter-on-quarter jumps landing in Q2. Now the curve is bending: TrendForce projects NAND contract prices to rise a further 10\u201315% in Q3 \u2014 still up, but no longer runaway. SLC NAND remains the exception, climbing hard on networking and automotive demand against structural shortages. If you are timing a purchase, our updated take",
+      "score": 0.8252664,
+      "raw_content": null,
+      "id": "879e89-04"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a_eea_JHGkM",
+      "title": "\ud83d\uded1 STOP Buying Bad SSDs! \ud83d\uded1 Best SSD for Gaming 2026 | Best SSD 2026",
+      "content": "10:04 SP A60\n10:25 Budget SSD Alternative\n10:53 (DRAM) Best SSD for Gaming 2026\n11:10 Insane Deal?\n11:41 Patriot VP4300\n12:00 Aorus Gn4 7300\n12:23 Teamgroup G70 Pro\n12:51 Cardea A440\n13:13 Predator GM7000 2TB\n13:36 Best Gen 5 DRAM NVME SSDs\n13:53 WD Black SN8100\n14:13 Samsung 9100 Pro\n14:35 Best SSD DEALS 2026 [...] [1:11] pricing. At the time of filming, we are in a massive shortage of RAM and SSDs due to insane AI data center expansion.\n[1:17] In 2026, as I'm filming this, the cheapest DRAMless 1 TB MVME SSD, it's about $150 in the US. With DRAM cache\n[1:24] equipped 1 TB NVME SSDs, starting around $210. Now, there's a slight discount if purchasing larger quantities. For instance, this Silicon Power UD90\n[1:33] DRMless NVME SSD is $164 for 1 TB, but $278 for two terabytes. That's $50 [...] [9:01] Patriot P400\n[9:36] Budget NVME SSD Pick\n[10:04] SP A60\n[10:25] Budget SSD Alternative\n[10:53] (DRAM) Best SSD for Gaming 2026\n[11:10] Insane Deal?\n[11:41] Patriot VP4300\n[12:00] Aorus Gn4 7300\n[12:23] Teamgroup G70 Pro\n[12:51] Cardea A440\n[13:13] Predator GM7000 2TB\n[13:36] Best Gen 5 DRAM NVME SSDs\n[13:53] WD Black SN8100\n[14:13] Samsung 9100 Pro\n[14:35] Best SSD DEALS 2026",
+      "score": 0.7999589,
+      "raw_content": null,
+      "id": "8552ec-05"
+    }
+  ],
+  "response_time": 3.26,
+  "request_id": "ed26936c-431d-433f-b010-218cc5f8de35"
+}

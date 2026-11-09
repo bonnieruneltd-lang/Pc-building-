@@ -1,0 +1,50 @@
+{
+  "query": "All the Mods 11 2026 heavy modpack RAM recommendation 12GB allocation",
+  "follow_up_questions": null,
+  "answer": "For All the Mods 11 in 2026, the sources recommend 12GB to 16GB of RAM allocation. Connect Hosting specifies 12GB as the recommendation for a group that plays regularly, and 16GB for public or automation-heavy communities. Prism Nodes Blog and WiseHosting both recommend 10-12GB for All the Mods 10, which is the predecessor pack. MineStrator suggests 12 to 16GB for heavy modpacks, and WinterNode Blog recommends 12-16GB for All the Mods 10.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://connecthosting.net/blog/how-much-ram-modded-minecraft-server",
+      "title": "Modded Minecraft Server RAM, Pack by Pack (2026) | Connect Hosting",
+      "content": "10GB is the pack author's server-side minimum and the floor our checkout enforces; 12GB is the recommendation for a group that plays regularly, and 16GB for public or automation-heavy communities. The same figures apply to ATM10 Aeronautics.\n\n### Is 4GB enough for a modded Minecraft server? [...] | Pack | Loader / version | Minimum | Recommended |\n ---  --- |\n| All the Mods 10 | NeoForge 1.21.1 | 10GB | 12GB |\n| ATM10 Aeronautics | NeoForge 1.21.1 | 10GB | 12GB |\n| All the Mons | NeoForge 1.21.1 | 10GB | 12GB |\n| DawnCraft | Forge 1.18.2 | 10GB | 12GB |\n| MC Eternal 2 | Forge 1.20.1 | 8GB | 10GB |\n| Better MC (BMC4) | Forge 1.20.1 | 8GB | 10GB |\n| Prominence II: Hasturian Era | Fabric 1.20.1 | 8GB | 10GB |\n| Beyond Depth | Forge 1.20.1 | 8GB | 10GB | [...] For a pack that is not in the table, size by loader: a Forge or NeoForge kitchen-sink pack wants 6GB minimum and 8GB recommended; a Fabric pack 4GB and 6GB. Anything that describes itself as \"kitchen sink\", \"everything\" or \"heavy\" belongs at 10GB or more.\n\n## Why the modern kitchen sinks sit at 10\u201312GB",
+      "score": 0.8014549,
+      "raw_content": null,
+      "id": "36700b-00"
+    },
+    {
+      "url": "https://prismnodes.com/blog/best-minecraft-modpacks-2026",
+      "title": "Best Minecraft Modpacks in 2026 (and Their RAM Needs) | Prism Nodes Blog",
+      "content": "| Pack style | Example | Recommended RAM |\n --- \n| Lightweight survival / skyblock | RLCraft, SkyFactory 4 | 4-6 GB |\n| Mid-weight tech / RPG | Vault Hunters, Create: A&B | 6-8 GB |\n| Heavy adventure / RPG | Better MC, DawnCraft | 8-10 GB |\n| Kitchen-sink | All the Mods 10 | 10-12 GB |\n\n## Why RAM is not the only number that matters [...] All the Mods 10 \u2014 The newest flagship kitchen-sink pack: tech, magic, storage, and exploration in one enormous NeoForge 1.21 package. Recommended RAM: 10-12 GB. Host it on our All the Mods 10 server hosting page.\n RLCraft \u2014 The definitive hardcore survival overhaul, with thirst, temperature, dragons, and permadeath-adjacent difficulty. Lighter than it feels \u2014 recommended RAM: 4-6 GB. See RLCraft server hosting. [...] ## Frequently asked\n\nWhich modpack needs the least RAM? Among the popular picks, RLCraft, SkyFactory 4, and Pixelmon are the lightest \u2014 4-6 GB comfortably handles a small group.\n\nWhat is the heaviest pack on this list? All the Mods 10, a full kitchen-sink pack, wants 10-12 GB and benefits from headroom if you explore a lot.",
+      "score": 0.798077,
+      "raw_content": null,
+      "id": "0ccbe2-01"
+    },
+    {
+      "url": "https://minestrator.com/blog/post/minecraft-server-ram-2026-vanilla-paper-modded-gb",
+      "title": "Minecraft Server RAM - Right Size in 2026 | MineStrator",
+      "content": "Big modpacks need a lot of memory because Java registries and loaded content grow quickly. Some packs can consume 8 GB at startup, even with zero players online.\n\n| Modpack type | Recommended RAM |\n --- |\n| Light pack | 8 GB |\n| Medium pack | 8 to 12 GB |\n| Heavy pack | 12 to 16 GB |\n\nAs a rough \u201cper player\u201d estimate, people often use ~200 MB per player for Vanilla. For modded, plan for at least double to avoid nasty surprises during peak hours.\n\n## Fabric vs (Neo)Forge: RAM impact [...] For \u201clight modded\u201d, a common baseline is 4 to 6 GB, then you scale up depending on mods and player count.\n\n| Players | Recommended RAM |\n --- |\n| 1 to 5 players | 4 to 8 GB |\n| 5 to 10 players | 8 to 12 GB |\n| 10 to 20 players | 8 to 16 GB |\n\n> \ud83d\udcdd Note: In modded, two packs with \u201c80 mods\u201d can use very different amounts of RAM. Some mods are lightweight, others add full systems (machines, dimensions, AI), and that changes everything.\n\n### Full modpacks (FTB, ATM, RLCraft\u2026) [...] | Players | Recommended RAM |\n --- |\n| 1 to 10 players | 4 GB |\n| 10 to 30 players | 4 to 8 GB |\n| 30 to 60 players | 8 to 12 GB |\n\nFor most private or public servers, Paper is the best default choice unless you have a specific constraint (heavy mods, strict Vanilla mechanics, etc.).\n\nPaper also reduces some pressure on Minecraft\u2019s main thread, so you often get better performance on the same CPU compared to Vanilla.\n\n### Forge/Fabric with a few mods (20 to 80)",
+      "score": 0.7876867,
+      "raw_content": null,
+      "id": "5f20b1-02"
+    },
+    {
+      "url": "https://wisehosting.com/blog/how-much-ram-for-modded-minecraft-server",
+      "title": "How Much RAM for a Modded Minecraft Server? Quick 2026 Guide",
+      "content": "| Modpack | Recommended RAM |\n --- |\n| The Pixelmon Modpack | 6-8 GB |\n| RLCraft | 6-8 GB |\n| SkyFactory 4 | 6-8 GB |\n Roguelike Adventures & Dungeons | 6-8 GB || Better MC [FABRIC] BMC1 | 6\u20138 GB |\n| Star Technology | 6-8GB |\n| Better MC [Forge] BMC4 | 8-10GB |\n| All The Mods 6 | 6-8GB |\n| All The Mods 7 | 8-10GB |\n| All The Mods 8 | 8-10GB |\n| All The Mods 9 | 8-10GB |\n| All The Mods 10 | 8-10GB |\n| Prominence II: Hasturian Era | 8-10GB |\n| DawnCraft - Echoes of Legends | 10-12GB | [...] | Server type | Players Online | Mods | Recommended RAM |\n ---  --- |\n| Light Modded | Less than 10 | Less than 30 | 6-8 GB |\n| Medium Modded | 5-15 | 30-100 Mods | 8-10 GB |\n| Heavy Modded | 5-20 | 100+ | 10\u201312 GB |\n| Large Community | 20-50+ | 200+ | 16GB+ |\n\n\ud83d\udc49\n\nFor accurate recommendations use Minecraft Server RAM Calculator\n\n## How Mods Use RAM\n\nYou\u2019ve probably seen threads or Reddit posts saying \u201cjust get 8GB and you\u2019re fine.\u201d\n\nThat\u2019s\u2026 half true. [...] | Crazy Craft Updated | 10-12GB |\n| GenCraft | 10-12GB |\n| TNP Limitless 7 | 10-12GB |\n| A Certain Rabbit's Dawncraft | 10-12GB |\n| All The Nodes | 10-12GB |",
+      "score": 0.77792513,
+      "raw_content": null,
+      "id": "d6ebbe-03"
+    },
+    {
+      "url": "https://winternode.com/blog/minecraft/how-much-ram-minecraft-server",
+      "title": "How Much RAM Do I Need for a Minecraft Server? | WinterNode Blog",
+      "content": "| Modpack | Recommended Server RAM |\n --- |\n| All the Mods 10 (ATM10) | 12-16GB |\n| All the Mods 10: Sky | 10-12GB |\n| Better MC (BMC4/BMC5) | 10-12GB |\n| FTB StoneBlock 4 | 10-12GB |\n| Prominence II: Hasturian Era | 12-14GB |\n| Crazy Craft Updated | 12-14GB |\n| Beyond Depth | 10-12GB |\n\nThese are starting points. Your actual needs depend on player count, world age, and how aggressively players are using resource-intensive features like automation or chunk loading.\n\nCheck the Modpack Page [...] 8-10GB for light modpacks (under 50 mods)\n 10-12GB for medium modpacks (50-100 mods)\n 14-16GB for heavy modpacks (100+ mods, kitchen-sink packs)\n 16GB or more for extreme packs, large player counts, or packs that rely heavily on world generation and automation\n\nThe modloader matters too. Fabric tends to be slightly lighter than Forge, though the difference depends heavily on which mods you\u2019re actually running.\n\n## Popular Modpacks and Their Requirements [...] The general rule: allocate what your server actually uses under load, plus a comfortable buffer. For vanilla and plugin servers, that usually lands between 8GB and 12GB. For heavy modpacks with active players, 14-16GB is common, and extreme packs or large communities can justify more.",
+      "score": 0.6391287,
+      "raw_content": null,
+      "id": "76bd52-04"
+    }
+  ],
+  "response_time": 2.85,
+  "request_id": "8d921cb5-7806-4cc6-ba35-1578816ae082"
+}

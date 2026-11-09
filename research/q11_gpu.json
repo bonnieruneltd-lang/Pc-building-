@@ -1,0 +1,58 @@
+{
+  "query": "best GPU for Minecraft shaders 2026 RTX 5080 vs RX 9070 XT",
+  "follow_up_questions": null,
+  "answer": "The RTX 5080 is the better choice for 4K and heavy ray tracing, delivering 70\u2013110 FPS natively and 90\u2013150 FPS at ultra with DLSS 4, while the RX 9070 XT is the value pick for 1440p gaming, delivering 140\u2013200+ FPS at high settings. The RX 9070 XT also performs well in Linux environments, maintaining 94% of its Windows 11 performance in CachyOS, 92.2% in Bazzite 44, and 89.8% in PikaOS IV. The RTX 5080 is almost twice as expensive as the RX 9070 XT, which is $599 compared to the RTX 5080's $999 price tag.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://cpubld.com/rtx-5080-vs-rx-9070-xt",
+      "title": "RTX 5080 vs RX 9070 XT: Which GPU Should You Buy? (2026) | CPUBLD",
+      "content": "\ud83d\udcc5 October 8, 2026\n\nThe RTX 5080 and RX 9070 XT are the two most popular high-end graphics cards of 2026, and they sit $400 apart. The short version: the RX 9070 XT at around $599 is the better value for 1440p gaming, where it delivers 140\u2013200+ FPS at high settings. The RTX 5080 at around $999 is the better card for 4K and for heavy ray tracing, where it runs 70\u2013110 FPS natively and 90\u2013150 FPS at ultra with DLSS 4. [...] \u2713 Key takeaway\n\nThe RX 9070 XT is the value pick and the RTX 5080 is the performance pick. Match the card to the monitor: 1440p gets the 9070 XT, 4K and heavy ray tracing get the 5080.\n\n## Example Builds Around Each GPU\n\nHere is how each card fits into a balanced 2026 build:\n\n1440p High-Refresh Build\n\n\u2605 Example build\n\n CPU Ryzen 7 9800X3D\n GPU Radeon RX 9070 XT 16GB\n RAM 32GB DDR5-6000\n Storage 2TB Gen4 NVMe SSD\n PSU 850W 80+ Gold\n Cooling 360mm liquid cooler [...] Both cards have 16GB of VRAM, which is the floor for 4K textures and plenty for 1440p\n The RTX 5080\u2019s GDDR7 memory is faster, which helps most at 4K where bandwidth matters\n The RX 9070 XT draws about 55W less, so it runs slightly cooler and quieter in the same case\n Both want an 850W 80+ Gold supply; see our power supply guide for the full wattage table\n\n## 1440p Performance: The RX 9070 XT\u2019s Home Turf",
+      "score": 0.84246206,
+      "raw_content": null,
+      "id": "9c608f-00"
+    },
+    {
+      "url": "https://shattered.io/rtx-5080-vs-rx-9070-xt-2026",
+      "title": "RTX 5080 vs RX 9070 XT: 95% Pricier, 18% Faster [2026]",
+      "content": "Where all three sources agree: the RTX 5080 wins outright on ray tracing at every resolution, the raster gap narrows the lower you go in resolution, and AMD\u2019s RX 9070 XT has become a legitimate value alternative rather than a budget compromise. Where they diverge is mostly a function of which card each outlet chose as the comparison point, not a contradiction in the underlying data.\n\n## DLSS 4 vs FSR 4: Upscaling and Frame Generation [...] That pattern lines up with other outlets. A separate aggregate referenced in GPU comparison coverage describes the RTX 5080 leading by roughly 15-18% in raster-heavy testing and by 20-25% at 4K in summaries tied to TechSpot and Hardware Unboxed testing methodology. A different Tom\u2019s Hardware-linked aggregate frames it slightly differently: about 10% faster at 1440p and 18% faster at 4K, which is close enough to the table above to call it a consistent trend rather than an outlier. [...] Multi-tasking under load: Running a game, a stream encode, and a Discord call simultaneously stresses the GPU\u2019s media engine and scheduler as much as its shader cores; NVIDIA\u2019s longer track record tuning drivers for exactly this kind of mixed workload gives the RTX 5080 a practical edge for streamers running demanding multi-app setups.",
+      "score": 0.82728493,
+      "raw_content": null,
+      "id": "39b257-01"
+    },
+    {
+      "url": "https://greypc.net/rtx-5080-vs-rx-9070-xt-1440p-and-4k-value-in-2026",
+      "title": "RTX 5080 vs RX 9070 XT: 1440p & 4K Value in 2026 - Grey PC",
+      "content": "For a build centred on a 4K panel where visual settings matter as much as frame rate, the RTX 5080 is the safer investment. For a 4K build where the priority is simply hitting a stable frame rate at a lower total cost, the RX 9070 XT with upscaling enabled remains a viable path.\n\n## VRAM and Longevity [...] The rtx 5080 vs rx 9070 xt question really comes down to what resolution you actually play at and how much you value ray tracing headroom over price. The RTX 5080 is the faster, more well\u2013rounded card at 4K and pulls ahead decisively once ray tracing and upscaling are switched on, while the RX 9070 XT undercuts it on price and still delivers excellent 1440p performance for builders who want more graphics card per BHD spent. Neither is a wrong choice \u2014 the gap is about where your money does the [...] The RTX 5080 uses Nvidia\u2019s current Blackwell architecture, with dedicated ray tracing cores and Tensor cores that power DLSS upscaling and frame generation. The RX 9070 XT runs AMD\u2019s RDNA 4 architecture, which brought a substantial jump in ray tracing throughput over the previous generation and pairs it with FSR upscaling, though AMD is still catching up to Nvidia\u2019s multi\u2013generation head start on AI\u2013driven frame generation.",
+      "score": 0.78194773,
+      "raw_content": null,
+      "id": "7aced8-02"
+    },
+    {
+      "url": "https://www.reddit.com/r/minecraftshaders/comments/1nkgjtf/which_gpu_should_i_buy",
+      "title": "Which GPU should i buy? : r/minecraftshaders",
+      "content": "I'm planning on upgrading my pc from the rtx 4060 to the RTX 5080 Astral OC, the RX 7900 XTX or the RX 9070 XT. The RTX 5080 Astral is almost twice as expensive",
+      "score": 0.7680558,
+      "raw_content": null,
+      "id": "904422-03"
+    },
+    {
+      "url": "https://en.gamegpu.com/news/zhelezo/sravnenie-proizvoditelnosti-rx-9070-xt-i-rtx-5080-v-windows-11-i-linux-v-2026-godu",
+      "title": "Performance Comparison RX 9070 XT and RTX 5080 in Windows 11 and Linux in 2026",
+      "content": "NVIDIA's GeForce RTX 5080 graphics adapter exhibits a more noticeable performance drop in Linux, which is attributed to a performance degradation bug in DirectX 12 and the specifics of the proprietary driver. Windows 11 25H2 card delivers an average of 151.2 FPS, taken as 100%. In the Bazzite 44 distribution, performance drops to 83.6% with an average frame rate of 126.5 FPS, in CachyOS a drop to 82.6% is recorded with an average frequency of 125.0 FPS, and in PikaOS IV the video card delivers [...] Video card Radeon RX 9070 XT on AMD architecture demonstrated high stability when switching to Linux. In CachyOS, the graphics accelerator retains 94% of its performance in Windows 11, delivering an average of 130.3 FPS versus 138.6 FPS. In the Bazzite 44 distribution, this figure is 92.2% with an average frequency of 127.9 FPS, and in PikaOS IV, performance remains at 89.8% with a value of 117.1 FPS. At the same time, rare events in the 1% Low indicator decrease from 96.6 FPS in Windows up to [...] in Windows up to 90.8 FPS in CachyOS, indicating good optimization of the open source Mesa drivers for Linux systems.",
+      "score": 0.7555112,
+      "raw_content": null,
+      "id": "070b24-04"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VpIDDM1k390",
+      "title": "RX 9070 XT - Minecraft with Shaders - This is Beautiful!",
+      "content": "# RX 9070 XT - Minecraft with Shaders - This is Beautiful!\n## Channel: zWORMz Gaming (verified)\n644K subscribers\n2.3K likes\n\n### Description\n94,980 views\nPosted: 2026-02-19\nMinecraft running on the Radeon RX 9070 XT 16GB graphics card at 4K and 1440p using Fancy settings, Iris & Sodium, and 10 popular shaders.\n\n\u23f1 Timestamps \u23f1 [...] ### Transcript\n[0:00] Hello guys, Chris here. Welcome back to another video. In this one, my friends, I'm going to be testing the Radian RX970 XT in Minecraft with shaders. This one\n[0:09] is the XFX Mercury class pro gaming version of the card. I am running it with the latest AMD drivers, of course, and I'm not manually overclocking this. [...] [22:22] plenty, so doesn't really matter too much. But uh Oh, there's another axe here. Yeah, we will need to grab more\n[22:30] iron for sure and more food. Anyway, 1440p here, guys. Plays absolutely fine.\n[22:37] So if you want the rate traced or path traced shaders here uh that look really really good in my opinion and have\n[22:44] fantastic lighting 1440p is the way to go. The 970 XT will do a great job. But\n[22:51] what about PTGI the pathraced global illumination sge shaders E12? These are",
+      "score": 0.7106489,
+      "raw_content": null,
+      "id": "e6615f-05"
+    }
+  ],
+  "response_time": 2.3,
+  "request_id": "2f8d791b-617e-41c9-8b9d-be21ca47ec19"
+}

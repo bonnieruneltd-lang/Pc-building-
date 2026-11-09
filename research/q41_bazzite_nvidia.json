@@ -1,0 +1,58 @@
+{
+  "query": "Bazzite NVIDIA driver support 2026 open kernel modules wayland gaming status",
+  "follow_up_questions": null,
+  "answer": "The sources indicate that Bazzite has achieved some level of support for the NVIDIA driver in a Wayland session, as evidenced by the successful use of `nvidia-smi`, `glxinfo`, and Steam detecting and using the driver. However, there are mixed reports on the overall readiness of the driver for Wayland. While some users on Bazzite report a positive experience, others in the broader Linux community have encountered significant issues with Wayland and newer drivers, including crashes and freezes. The proprietary drivers could run a Wayland desktop without multiple issues, but there are still reported problems with Firefox crashing upon launching. The sources do not provide a definitive answer on the current state of NVIDIA support on Bazzite for 2026.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://github.com/ublue-os/bazzite/issues/5086",
+      "title": "Regression in Bazzite 44.20260608 (Kernel 7.0.9, NVIDIA 610.43.02) affecting VLC and LACT \u00b7 Issue #5086 \u00b7 ublue-os/bazzite \u00b7 GitHub",
+      "content": "### Hardware\n\n Bazzite 44.20260608\n Kernel: 7.0.9-ogc3.2.fc44.x86\\_64\n KDE Plasma: 6.6.5\n Qt: 6.11.1\n GPU: NVIDIA GeForce RTX 3060 Ti\n Driver: NVIDIA 610.43.02\n Wayland session\n\n### Extra information or context\n\nNo response\n\n## Activity\n\n1. ### Te-rex83commentedon Jun 19, 2026\n\n   @Te-rex83\n\n   Te-rex83\n\n   on Jun 19, 2026\n\n   Author\n\n   More actions\n\n   I don't know how these things get fixed, but this is no longer an issue for me. [...] The NVIDIA driver itself appears functional:\n\n `nvidia-smi` works correctly.\n `glxinfo` reports the RTX 3060 Ti and OpenGL 4.6.\n KDE Wayland session operates normally.\n Steam detects and uses the NVIDIA proprietary driver.\n\n### Workaround\n\nRunning:\n\n```\nrpm-ostree rollback\n```\n\nand booting back into Bazzite 44.20260515 immediately resolves all issues.\n\nAfter rollback:\n\n VLC starts normally.\n LACT loads correctly.\n No GLX initialization errors occur.\n\n### Conclusion [...] Operating System: Bazzite 44  \n    KDE Plasma Version: 6.6.5  \n    KDE Frameworks Version: 6.26.0  \n    Qt Version: 6.11.1  \n    Kernel Version: 7.0.9-ogc3.2.fc44.x86\\_64 (64-bit)  \n    Graphics Platform: Wayland  \n    Processors: 4 \u00d7 Intel\u00ae Core\u2122 i5-4690 CPU @ 3.50GHz  \n    Memory: 32 GiB of RAM (31.3 GiB usable)  \n    Graphics Processor: NVIDIA GeForce RTX 3060 Ti\n2. Te-rex83\n\n   closed this as completedon Jun 19, 2026",
+      "score": 0.7734393,
+      "raw_content": null,
+      "id": "de8523-00"
+    },
+    {
+      "url": "https://community.frame.work/t/nvidia-is-still-not-ready-for-wayland/80733",
+      "title": "Nvidia Is Still not Ready for Wayland - Linux - Framework Community",
+      "content": "Unfortunately I think I\u2019m going to have to return this module, these problems are just too much. Unless of course I\u2019m missing anything major.\n\nMoral of the story: NVIDIA is NOT wayland ready. Do not buy if you are going to be using wayland.\n\nNot been my experience at all on Bazzite.\n\nNot on the Framework, but this hasn\u2019t been my experience with my desktop.\n\nHave you tried any other distros, such as an officially supported one like Fedora? That could help you narrow down the software issue. [...] I think Bazzite has specific customisations to make Nvidia work, being immutable I guess they\u2019ve got it all setup and locked down\n\nThis topic was automatically closed 180 days after the last reply. New replies are no longer allowed.\n\n### Related topics [...] Honestly its bad. I\u2019ve spent numerous attempts to fix the problem (tried different hooks, modules, drivers) and this is just across the board a mess. -Some games only load correctly in X11\n\nUnfortunately I think I\u2019m going to have to return this module, these problems are just too much. Unless of course I\u2019m missing anything major.\n\nMoral of the story: NVIDIA is NOT wayland ready. Do not buy if you are going to be using wayland.",
+      "score": 0.635879,
+      "raw_content": null,
+      "id": "396241-01"
+    },
+    {
+      "url": "https://www.reddit.com/r/linux_gaming/comments/1jkfqdt/bazzite_with_nvidia_is_an_amazing_experience",
+      "title": "Bazzite with NVidia is an amazing experience : r/linux_gaming",
+      "content": "Image 25: u/chengxu02_baidu avatar chengxu02_baidu  \u2022Ad    AI that generates images. Sign up today!    Image 26: Thumbnail image: AI that generates images. Sign up today!   kooko.ai    \n\n  \n\n   [My experience with Bazzite + Nvidia GPU [May 13th 2026]]( 27 r/Bazzite\u20226mo ago    ### [My experience with Bazzite + Nvidia GPU [May 13th 2026]](    45 upvotes \u00b723 comments [...] Something told me to look up if Bazzite implemented those patches as well ... and it turns out they did! System is running amazingly! Finally Bazzite is running on NVidia GPUs - no AMD GPU needed anymore.\n\nOnly caveat is that it is build upon `nvidia-open`! Which means you need a 20 series GPU or newer in order to use it!\n\nSure stuff like HDR is still missing. But its just a matter of time until it will work! [...] Antivirus software for Bazzite?Image 36 r/Bazzite\u202224d ago    ### Antivirus software for Bazzite?    25 upvotes \u00b744 comments    \n\n  \n\n   What is the current state of Nvidia support on Bazzite?Image 37 r/Bazzite\u20223mo ago    ### What is the current state of Nvidia support on Bazzite?    36 upvotes \u00b753 comments",
+      "score": 0.5712171,
+      "raw_content": null,
+      "id": "caa5a5-02"
+    },
+    {
+      "url": "https://universal-blue.discourse.group/t/bazzite-3-5-0-update-released/2368",
+      "title": "Bazzite 3.5.0 Update Released - Bazzite - Universal Blue",
+      "content": "Nvidia 555\n\nThe proprietary Nvidia drivers could finally run a Wayland desktop without having multiple issues that AMD/Intel GPU users weren\u2019t experiencing. Using negativo17\u2019s Nvidia driver repository to get Nvidia drivers here quicker before they hit stable allowed this to happen. If you have Nvidia hardware and have experienced numerous problems such as flickering, sluggish animations, or strange freezes then hopefully this new driver release fixes those issues. [...] New Nvidia driver changes explained in this article:\n\n### NVIDIA 555.58 Stable Linux Driver Brings Wayland Explicit Sync, GSP Firmware...\n\nThe NVIDIA 555.58 Linux driver has debuted this morning as the first stable version in the R555 driver series\n\nHowever, do not get too excited if you use Firefox as your default browser since there is a new issue involving Wayland and the new Nvidia drivers crashing Firefox upon launching it. There are three workarounds that are available to you however: [...] The X11 KDE Plasma package was going to be removed and all users were going to be on Wayland after updating to follow suit with Fedora, however since the Firefox still has issues with Nvidia and Wayland, X11 is still here. Bazzite\u2019s Nvidia images retained the X11 package even though upstream Fedora did not only because of the awful experience between Nvidia drivers and Wayland.",
+      "score": 0.55362654,
+      "raw_content": null,
+      "id": "508873-03"
+    },
+    {
+      "url": "https://forums.developer.nvidia.com/t/random-crashes-on-wayland-since-driver-580-on-linux/345527",
+      "title": "Random crashes on wayland since driver 580 on Linux - Linux - NVIDIA Developer Forums",
+      "content": "| RTX 4060 Laptop GPU freezes on KDE Wayland with driver 570.144  Linux wayland | 5 | 597 | March 24, 2026 |\n| Freezes in games (for example CS 2) and streaks in some games (in versions from 545 to 550.67)  Linux | 1 | 355 | March 21, 2024 | [...] | Topic |  | Replies | Views | Activity |\n ---  --- \n| KDE Plasma/Wayland (and X11) full driver crashes/hangs  Linux wayland ,  linux-driver ,  x11 | 56 | 4747 | October 3, 2026 |\n| Random screen freeze on wayland, sound still plays in background  Linux | 1 | 1499 | March 31, 2025 |\n| 610 release feedback & discussion  Linux | 300 | 38896 | September 30, 2026 |\n| 595.71.05: Screen freezes on Linux (Wayland)  Linux | 2 | 540 | August 13, 2026 | [...] `kwin_wayland: kwin_scene_opengl: Invalid framebuffer status: \"GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT\"`\n`systemd-coredump: [\ud83e\udc55] Process 1683 (kwin_wayland) of user 1000 dumped core.`\n\nThis is with kde plasma\n\nGeneral information:\n\nDistribution: `Ubuntu 24.04.3` (Wayland)\n\n`Ubuntu 24.04.3`\n\nKernel: `Linux 6.11.0-29-generic`\n\n`Linux 6.11.0-29-generic`\n\nDriver `580.65.06`, `nvidia-dkms` package (not the nvidia-open driver)\n\n`580.65.06`\n`nvidia-dkms`\n\nGPU: `RTX 3050 Laptop`\n\n`RTX 3050 Laptop`",
+      "score": 0.5177909,
+      "raw_content": null,
+      "id": "a907fa-04"
+    },
+    {
+      "url": "https://bazzite.gg",
+      "title": "Bazzite \u2013 The operating system for the next generation of gamers",
+      "content": "### Our sponsors: Cloudflare Our partners: Open Gaming Collective Terra\n\n## Download Bazzite\n\nWARNING: Nvidia GPU support in Steam Gaming Mode and on HTPCs is available as a beta.  \n  \nYou can view a list of current known issues here.\n\n### New Users\n\nDownload \udb80\ude16 \udb84\udf9a\n\nDownload  Legacy installer \udb80\ude16\n\nFOSS Torrents  FOSS Torrents [...] ##### GPU Support\n\nNvidia drivers and the latest Mesa for AMD & Intel pre-installed, with tweaks applied as needed\n\n##### Additional Drivers\n\nBazzite ships with support for additional Wi-Fi adapters, display standards like DisplayLink, and more!\n\n## Use your favorite  desktop environmenthandheld experiencecouch gaming setup desktop environment\n\nKDE [...] Bazzite focuses on hardware compatibility out of the box, with full support for accelerated video encoding and decoding, built in Nvidia drivers, additional HID drivers, and just about every udev rule you could need.  \n  \nLet your operating system work with your hardware so you don't have to.\n\n##### Game Controllers\n\nOut-of-the-box support for Xbox, Wii, Switch, PlayStation, Steering Wheels, and numerous other controllers.\n\n##### GPU Support",
+      "score": 0.47051823,
+      "raw_content": null,
+      "id": "3bddf4-05"
+    }
+  ],
+  "response_time": 2.89,
+  "request_id": "bdf091c9-fe08-4154-90ba-327eda8bab35"
+}

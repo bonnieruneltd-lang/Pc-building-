@@ -1,0 +1,85 @@
+{
+  "id": "build-c-x3d-first",
+  "name": "C — X3D-First Value (cheapest build that still feels fast in modded Minecraft)",
+  "currency": "USD",
+  "price_date": "2026-11-09",
+  "target": "Modded Minecraft + shaders at 1080p/1440p, 16-24 chunks, lighter 64-128x packs",
+  "parts": {
+    "cpu": {
+      "name": "AMD Ryzen 7 9850X3D",
+      "price": 484.00,
+      "socket": "AM5",
+      "tdp_w": 120,
+      "peak_w": 162,
+      "cores": "8C/16T",
+      "l3_mb": 96,
+      "why": "Yes, the $484 CPU is in the cheap build. In Minecraft the CPU decides your chunk-render distance, tick rate and 1% lows; a 6-core non-X3D chip with a bigger GPU feels worse. If you must cut it, a Ryzen 5 9600X ($219) saves $265 but costs ~20-30% of chunk-load speed and stutters."
+    },
+    "cooler": {
+      "name": "Thermalright Peerless Assassin 120 SE V2",
+      "price": 34.99,
+      "type": "air",
+      "height_mm": 155,
+      "why": "Cheapest cooler that is genuinely sufficient for a 120 W X3D part."
+    },
+    "motherboard": {
+      "name": "Gigabyte B850 Eagle WiFi 6E",
+      "price": 189.99,
+      "socket": "AM5",
+      "chipset": "B850",
+      "ram_type": "DDR5",
+      "dimm_slots": 4,
+      "m2_slots": 2,
+      "pcie5_x16": true,
+      "why": "Cheapest board I would put an X3D chip in: real VRM heatsinks, PCIe 5.0 x16, BIOS flashback."
+    },
+    "memory": {
+      "name": "32 GB (2x16 GB) DDR5-6000 CL30 EXPO",
+      "price": 479.99,
+      "type": "DDR5",
+      "capacity_gb": 32,
+      "sticks": 2,
+      "speed_mts": 6000,
+      "why": "Note the absurdity of Nov 2026: the RAM costs more than the CPU. 32 GB / 2 sticks is the correct call for AM5; do not buy 4 sticks."
+    },
+    "gpu": {
+      "name": "AMD Radeon RX 9060 XT 16 GB",
+      "price": 519.00,
+      "vendor": "AMD",
+      "vram_gb": 16,
+      "tdp_w": 160,
+      "length_mm": 300,
+      "why": "16 GB VRAM is the point — it runs Iris shaders + Distant Horizons + a 128x pack without texture thrash. It is the cheapest card worth buying for this use case, and it is excellent on Bazzite."
+    },
+    "storage": {
+      "name": "WD_BLACK SN850X 2 TB NVMe",
+      "price": 379.99,
+      "interface": "PCIe 4.0 x4 M.2",
+      "capacity_gb": 2000,
+      "why": "Keep the big drive — modpack instances are 20-60 GB each and NAND prices are climbing, so buy capacity once."
+    },
+    "psu": {
+      "name": "MSI MPG A1000GS 1000 W (ATX 3.1, 80+ Gold)",
+      "price": 109.99,
+      "wattage": 1000,
+      "atx_31": true,
+      "connector_12v2x6": true,
+      "why": "Overkill for 280 W of load, but it is cheaper on sale than the 650-750 W units it beats, and it makes the next GPU upgrade free."
+    },
+    "case": {
+      "name": "Lian Li Lancool 207",
+      "price": 79.99,
+      "form_factor": "ATX mid-tower",
+      "max_gpu_mm": 375,
+      "max_cooler_mm": 175,
+      "why": "Four included fans, ~$80, no software."
+    }
+  },
+  "peripherals": {
+    "monitor": {
+      "name": "Acer Nitro VG277U 27\" 1440p 180 Hz IPS (budget option)",
+      "price": 269.00,
+      "why": "If the OLED is too much, this keeps 1440p + high refresh; shaders still look great, you lose HDR contrast."
+    }
+  }
+}

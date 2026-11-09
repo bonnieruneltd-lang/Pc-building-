@@ -1,0 +1,58 @@
+{
+  "query": "balzzite minecraft",
+  "follow_up_questions": null,
+  "answer": "The sources indicate that Bazzite is an operating system designed for gamers, with Minecraft being one of the games supported using the Prism Launcher. A GitHub issue describes a memory leak experienced while running Minecraft through the Prism Launcher on Bazzite. Additionally, a comment on RimWorld Gallery suggests that to play Minecraft on Linux with Bazzite, one needs to own Minecraft on the Play Store and have a Microsoft account for online play. The Bazzite website highlights Minecraft as one of the games playable on the system using the Prism Launcher.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://github.com/ublue-os/bazzite/issues/4145",
+      "title": "Bazzite memory leak running Prism Launcher (Minecraft) \u00b7 Issue #4145 \u00b7 ublue-os/bazzite \u00b7 GitHub",
+      "content": "# Bazzite memory leak running Prism Launcher (Minecraft) #4145\n\nCopy link\n\nCopy link\n\nOpen\n\nOpen\n\nBazzite memory leak running Prism Launcher (Minecraft)#4145\n\nCopy link\n\n## Description\n\n@SirNexus\n\nSirNexus\n\nopened on Feb 13, 2026\n\nIssue body actions\n\n### Describe the bug\n\nI am experiencing what feels like a memory leak playing minecraft GT New Horizons through the Prism Launcher. Here are some screenshots of memory usage over time as I play:\n\nImage Image [...] Operating System: Bazzite 43 KDE Plasma Version: 6.5.5 KDE Frameworks Version: 6.22.0 Qt Version: 6.10.1 Kernel Version: 6.17.7-ba25.fc43.x86_64 (64-bit) Graphics Platform: Wayland Processors: 12 \u00d7 AMD Ryzen 5 7600X 6-Core Processor Memory: 32 GiB of RAM (30.5 GiB usable) Graphics Processor 1: AMD Radeon RX 7800 XT Graphics Processor 2: AMD Ryzen 5 7600X 6-Core Processor Manufacturer: Gigabyte Technology Co., Ltd. Product Name: B850M GAMING X WIFI6E System Version: Default string-CF-WCP-ADO [...] ### Extra information or context\n\nHere are my Java settings for Minecraft\n\nImage\n\nReactions are currently unavailable\n\n## Activity\n\nSign up for free to join this conversation on GitHub. Already have an account? Sign in to comment\n\n## Metadata\n\n## Metadata\n\n### Assignees\n\nNo one assigned\n\n### Labels\n\nNo labels\n\nNo labels\n\nNo type\n\nNo projects\n\nNo milestone\n\nNone yet\n\nNo branches or pull requests\n\n## Issue actions\n\nYou can\u2019t perform that action at this time.",
+      "score": 0.6164054,
+      "raw_content": null,
+      "id": "b690e1-00"
+    },
+    {
+      "url": "https://rimworld.gallery/m/linux_gaming@lemmy.world/t/13388/Minecraft-Bedrock-on-Bazzite/comment/150881",
+      "title": "Comments - Minecraft Bedrock on Bazzite - RimWorld Gallery",
+      "content": "> baduhai ,   (edited )    @baduhai@sopuli.xyz avatar  \n>\n> I'm not super familiar with Bazzite, but I think it's one of those that boots straight into steam, right? Try logging in and setting the game up in desktop mode.\n>\n> If that doesn't work, you're better off searching in Bazzite/MCPELauncher dedicated forums. [...] > baduhai ,   (edited )    @baduhai@sopuli.xyz avatar  \n>\n> You'll need to own Minecraft on the Play Store to be able to play on Linux, so that's one thing to keep in mind, also you'll need a Microsoft account to play online. There's not much else, the bedrock launcher is pretty good, and mostly keeps up with breaking changes to the android version.\n> [...] >\n> As for why there are multiple Minecraft versions, blame Microsoft. When they bought Mojang they wanted a Minecraft version that worked on consoles and had better performance on lowered powered devices like phones, so they wrote a clone of the game in C++. And props to them, they got what they wanted, but the game isn't the same as the older Java game, so the core PC community never adopted Bedrock.\n>",
+      "score": 0.5568099,
+      "raw_content": null,
+      "id": "a84313-01"
+    },
+    {
+      "url": "https://bazzite.gg",
+      "title": "Bazzite \u2013 The operating system for the next generation of gamers",
+      "content": "\udb80\udf3e [...] Sea of Thieves\n\nSea of Thieves\n\nShot on Framework\n\nForza Horizon 5\n\nForza Horizon 5\n\nShot on Steam Deck\n\nSea of Thieves\n\nS.T.A.L.K.E.R. 2\n\nMinecraft\n\nUsing Prism Launcher\n\nNew to gaming on Linux? Check out Bazzite's Gaming Guide for up-to-date tips and tricks.\n\nWondering if your favorite games are compatible? Check the community-maintained compatibility lists:\n\nVisit ProtonDB   Visit GamingOnLinux [...] Bazzite is designed for Linux newcomers and enthusiasts alike with Steam pre-installed, HDR & VRR support, improved CPU schedulers for responsive gameplay, and numerous community-developed tools and tweaks to streamline your gaming and streaming experience.",
+      "score": 0.5232017,
+      "raw_content": null,
+      "id": "7a4564-02"
+    },
+    {
+      "url": "https://www.reddit.com/r/Bazzite/comments/1s5hgnv/my_son_uses_bazzite_and_wants_minecraft_what_do_i",
+      "title": "My son uses Bazzite and wants Minecraft. What do I ...",
+      "content": "As the title says, my son wants Minecraft. (Yes, he yearns for the mines.) I\u2019ve used Fedora and Mint for years, so I\u2019m not new to Linux, but games",
+      "score": 0.49523994,
+      "raw_content": null,
+      "id": "58ca36-03"
+    },
+    {
+      "url": "https://www.gamingonlinux.com/guides/view/an-idiots-guide-to-setting-up-minecraft-on-steam-deck-steamos-with-controller-support",
+      "title": "An idiots guide to setting up Minecraft on Steam Deck / SteamOS with controller support | GamingOnLinux",
+      "content": "Nice. Just tried it on my Rog Ally with Bazzite. My kids and I use Fabulously Optimised modpack mentioned in an earlier post but it uses Curseforge and not Modprint. I did not get that to work on my handhelds, but it works on my desktop.  \n   \n Need to do a search to see if someone made a good handheld modspack or maybe make one myself. I did download a few mods and MakeUp-Ultrafast shaderpack. I get around 80FPS on 10W and just under 120FPS on 15W with shaders. [...] Make sure it's set to Modrinth, and then in the search bar type in Controlify. You'll need to then select it, hit the \"Select mod for download\" button which will then pop up a list of exactly what it will download, just click through Ok.\n\nOnce done, you'll be sent back to the Mods screen to show that it's all installed.\n\n### 6) Add To Steam [...] After you've linked your account, you're now ready to actually install Minecraft. You'll be presented with a blank Prism Launcher here ready to add in whatever you want.\n\n### 4) Install Minecraft inside Prism Launcher\n\nHere, we're going to get Minecraft installed along with a mod called Controlify. This offers probably some of the best and most featured controller support available for Minecraft Java Edition.",
+      "score": 0.38595363,
+      "raw_content": null,
+      "id": "34a3e7-04"
+    },
+    {
+      "url": "https://docs.bazzite.gg/Gaming/Game_Launchers",
+      "title": "Game Launchers - Bazzite Documentation",
+      "content": "You may add a shortcut for the game into the App Menu or your Desktop by going into the Edit Tab or the Right Click Context Menu of the launcher of your choice and selecting the respective entries. [...] ### Setup\u00b6\n\nTypically, you only need to specify the game location by using the Add locally installed game option. The Proton Prefix will then be created and managed automatically for you by the respective launcher. Should you want to manage the locations of the Prefix yourself, you may also choose the respective options in the launcher of your choice. [...] Games with a Linux port will be used by default on Desktop images.\n Valve selects the default runner on Handheld/HTPC images.\n Some games run better with a specific version of Proton than using the Linux port, though the vice versa may be true sometimes as well.\n\nRun that specific version by going into the game's Properties \u2192 Compatibility, enable Force the use of a specific Steam Play compatibility tool and select under the drop-down menu.",
+      "score": 0.25694662,
+      "raw_content": null,
+      "id": "c2a042-05"
+    }
+  ],
+  "response_time": 2.26,
+  "request_id": "b0684fa9-0649-455f-8b8f-d46cefe8a375"
+}

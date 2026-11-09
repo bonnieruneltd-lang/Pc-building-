@@ -1,0 +1,50 @@
+{
+  "query": "best 1000W ATX 3.1 PSU 2026 price recommendation 12V-2x6",
+  "follow_up_questions": null,
+  "answer": "The best 1000W ATX 3.1 PSU 2026 with 2x6 12V cables recommended by the sources is the MSI MPG A1000GS. It is fully modular, 80+ Gold, ATX 3.1 & PCIe 5.1 ready, low-noise, and comes with a 10-year warranty. It is priced at $109.99, which is a $60 discount from its original price of $169.99. Other notable mentions include the Corsair RM1000x and the ASRock SL-1000GW, both of which also feature 12V-2x6 cables and high ratings for performance and efficiency.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.newegg.com/insider/best-power-supplies-in-2026-for-every-build",
+      "title": "Best Power Supplies in 2026 for Every Build",
+      "content": "(923)MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, Dual 12V-2x6 Cables, Server-Grade Capacitor, ATX 3.1 & PCIe 5.1 Ready, Low-Noise, 8-pin PCIe x 3, 10 Year Warranty$109.99$169.99 Save 35%(10)ASRock PRO Series PRO-850B 850 W ATX 3.1 Compatible 80 PLUS BRONZE Certified Power Supply$54.99$84.99 Save 35%(56)ASRock Phantom Gaming PG-1000G 1000W 80 PLUS GOLD & Cybenetics GOLD Full Modular Power Supply, ATX3.1 & PCIe5.1 Ready with Dual Color 12V-2x6 Cable, 10 Years [...] A flagship graphics card plus a high-core-count processor is where 1000W starts making sense \u2014 not because the machine draws that much continuously, but because headroom keeps the supply in its efficient, quiet band and absorbs transients comfortably. The Corsair RM1000x is the straightforward pick: 1000W, Cybenetics Gold, fully modular, ATX 3.1 and PCIe 5.1 with a native 12V-2x6 connector.\n\n## If You Want Maximum Efficiency and Minimum Noise [...] Cable, 10 Years Warranty$99.99$189.99 Save 47%(318)ASRock SL-1000GW 1000W 80 PLUS GOLD & Cybenetics PLATINUM Full Modular Power Supply, ATX3.1 & PCIe5.1 Ready with Dual Color 12V-2x6 Cable, 10 Years Warranty, White Edition$94.99$179.99 Save 47%",
+      "score": 0.9177831,
+      "raw_content": null,
+      "id": "4d6bf3-00"
+    },
+    {
+      "url": "https://tech4gamers.com/best-atx-3-1-psus",
+      "title": "We Have Rounded Up The Best ATX 3.1 PSUs Of 2026 - Tech4Gamers",
+      "content": "Best Value ATX 3.1 PSU\n\nASRock SL1000GW Gold Pictures From Our Review\n\n1 of 3\n\nPSU Top\n\nPSU Modular Bay Side\n\nPSU Teardown Top (Image By Tech4Gamers)\n\nSpecifications: Size: 150 x 150 x 86mm | Efficiency Rating: 80+ Gold | Modular: Yes (Fully) | Wattage: 1000W | Protection: OPP, OVP, UVP, OCP, OTP, SCP | ATX 24-Pin: 1 | EPS 4+4-Pin: 2 | 12V-2\u00d76 Pin: 1 | PCI-E 6+2-Pin: 3 | SATA: 9 | MOLEX 4-Pin: 3\n\n#### Pros [...] Best 1000W ATX 3.1 PSU\n\nMSI MAG A1000GL Pictures From Our Review\n\n1 of 3\n\nPSU Front\n\nModular Connectors Side (Image By Tech4Gamers)\n\nTop Teardown (Image By Tech4Gamers)\n\nSpecifications: Size: 150 \u00d7 150 \u00d7 86mm | Efficiency Rating: 80+ Gold | Modular: Yes (Fully) | Wattage: 1000W | Protection: OPP, OVP, OPP, OTP, SCP, UVP | ATX 24-Pin: 1 | EPS 4+4-Pin: 2 | 12V-2\u00d76 Pin: 1 | PCI-E 6+2-Pin: 4 | SATA: 12 | MOLEX 4-Pin: 4\n\n#### Pros\n\n Excellent build quality\n Low temperatures\n Impressive performance [...] The MSI MAG A1000GL power supply has an impressive build quality for a decently-priced product. Along with being ATX 3.1 compliant, the PSU features decent performance, especially in terms of its max voltage ripple and lower temperatures, making it the best 1000W ATX 3.1 PSU.\n\n Best 1000W Power Supply\n\n|  |  |\n --- |\n| Performance: 9/10 | Value: 9/10 |\n| Features: 9/10 | Efficiency: 8.5/10 |\n\n### Silverstone Hela 850R Platinum\n\nBest 850W ATX 3.1 PSU",
+      "score": 0.890761,
+      "raw_content": null,
+      "id": "718ae3-01"
+    },
+    {
+      "url": "https://hwbusters.com/best_picks/best-atxv3-pcie5-ready-psus-picks-hardware-busters",
+      "title": "Best PSU Picks 2026: PSU Tier List & Top PSUs Ranked - Hardware Busters",
+      "content": "I have the old ATX12V v2.52 Seasonic PX-1600. Would something like the Corsair RM1000x ATX 3.1, Asus Rog Strix Platinum 1000/1200W ATX 3.1 etc. be an upgrade or should i simply keep the unit that i have.  \n    I understand that it\u2019s supposedly ATX 3 compliant up to 1000W. Are there any increased risks with the 2x PCI-E to 12VHPWR cable instead of a native 12V-2\u00d76.\n\n   Thanks\n\n   Reply\n\n   1. Keep what you have. Just try to find a native cable, one that uses 2x 8pins and outputs 12V-2\u00d76 [...] Best overall100.00%Super Flower Leadex ATX3+ 1700WRelative performanceMost efficient93.06%Wentai AiBARZA AIdan D1515 (1300W)Average efficiencyBest at light load87.94%Cooler Master GX II 850 GOLDEfficiency, 20-80 WQuietest6.00dBACooler Master X Silent Edge Platinum 850Average fan noise +2 tiedBest transient response2.47%Super Flower Leadex ATX3+ 1700WSmallest dip at 200% load (PSUs with a 12V-2x6 connector only)Longest hold-up34.20msSuper Flower Leadex VIII 1000W (SF-1000F14SP(E))Hold-up [...] | Update Date | Changes |\n --- |\n| 27 October 2026 | Corrected the 200% transient response comparisons. Only PSUs with a 12V-2\u00d76 connector are compared at 200% load now, because PSUs without one are tested at a maximum of 150%. The charts and the Best Three tables were redrawn, and the PSU Bench follows the same rule. We also corrected the hold-up time of the Super Flower Leadex VIII 1000W to 34.2 ms (it was 34.6 ms), which slightly lowers its overall performance score. |",
+      "score": 0.83549726,
+      "raw_content": null,
+      "id": "bd6be0-02"
+    },
+    {
+      "url": "https://www.tomshardware.com/reviews/best-psus,4229.html",
+      "title": "Best Power Supplies 2026 | Tom's Hardware",
+      "content": "Outstanding voltage regulation below 1% across all rails and excellent ripple suppression provide exceptionally clean power delivery. ATX 3.1 compliance includes a 12V-2x6 connector alongside five PCIe 8-pin outputs. The magnetic USB hub expands connectivity while magnetic cable organizers simplify management. Primary concerns involve the inverted 24-pin connector placement requiring specific case compatibility and Teapo rather than premium Japanese secondary capacitors, though the [...] The be quiet! Dark Power 13 1000W PSU is a premium offering built on an excellent FSP platform, delivering top-tier performance and efficiency. Both CLEAResult and Cybenetics certify it as Titanium, showcasing its exceptional electrical efficiency. This PSU excels in power quality, ensuring stable and clean output while maintaining impressively low noise levels under any load. Priced at $270, it is a solid deal for a 1000W Titanium-certified unit, but with frequent discounts dropping it to",
+      "score": 0.7992077,
+      "raw_content": null,
+      "id": "94c07e-03"
+    },
+    {
+      "url": "https://www.pcguide.com/psu/best-1000w-psu",
+      "title": "Best 1000W PSU 2026: Find the perfect high-wattage power supply - PC Guide",
+      "content": "ATX 3.1 is a refined version of ATX 3.0 and includes the 12V-2\u00d76 connector, which can deliver up to 600W on a single cable. So, to handle the modern power-hungry PCIe 5.0 graphics card, having an ATX 3.1 PSU will serve you better.\n\nThese PSUs are also rated to handle up to 200% of their rated capacity in short bursts, which safeguards the GPU and provides a layer of future-proofing through better low-load efficiency and strict stability standards. [...] Shop on Amazon\n\nIf you want to check out more options before making your decision, that is totally understandable and recommended. We chose the MSI MAG A1000GL PSU as our runner-up option due to its features, price point, and overall performance. This power supply unit is PCIe 5.1- and ATX 3.1-compliant, meaning it should work perfectly with modern GPUs. [...] If you\u2019re looking for a 1000W power supply unit that offers the best efficiency, then the Corsair HX1000i is our recommendation. This PSU has an efficiency rating from 80Plus and Cybenetics, which is amazing, and we\u2019ve also reviewed it in-house, so you can see the full breakdown before making a purchase.",
+      "score": 0.79041743,
+      "raw_content": null,
+      "id": "aba61f-04"
+    }
+  ],
+  "response_time": 2.34,
+  "request_id": "ecbe3297-4aa3-413e-a351-ba4cbad41bea"
+}

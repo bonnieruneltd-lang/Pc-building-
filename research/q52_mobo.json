@@ -1,0 +1,50 @@
+{
+  "query": "best AM5 B850 motherboard 2026 PCIe 5.0 price recommendation",
+  "follow_up_questions": null,
+  "answer": "The sources recommend the Gigabyte B850 Eagle Wi-Fi 6E as the top AM5 B850 motherboard for 2026, supporting PCIe 5.0 and offering a powerful, future-ready platform for Ryzen 7000, 8000, and 9000 series processors. Other notable options include the ASRock B850I Lightning, which offers full support for AM5 processors and PCIe 5.0 for the M.2 and GPU slot, and the MSI MAG X870 Tomahawk Wi-Fi, which supports AMD Ryzen 9000/8000/7000 processors with PCIe 5.0. Prices for these motherboards range from $189.99 for the ASRock B850 Pro RS WiFi to $259.99 for the MSI MAG X870 Tomahawk Wi-Fi.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.tomshardware.com/best-picks/best-motherboards",
+      "title": "Best Motherboards 2026 for Gaming, by Socket and Chipset | Tom's Hardware",
+      "content": "ASRock\u2019s B850I Lightning is an excellent value in the Mini-ITX space. For just over $200, it offers full support for AM5-based processors, including flagship-class options. Key features include capable power delivery, integrated Wi-Fi 6E, PCIe 5.0 for the M.2 and GPU slot, a solid audio solution, and outstanding out-of-the-box performance. The generally neutral design features a black PCB with Phantom Gaming purple and highlights, fitting most build themes. Given the price, there is very little [...] The ASRock X870E Challenger at a penny under $290 is one of the best budget-class X870E boards currently available. You get robust power delivery, plenty of fast USB connectivity (including two USB4 Type-C ports), Wi-Fi 7, and four M.2 sockets (one PCIe 5.0). It may not have as many EZ DIY features or AI, but it\u2019s a solid, inexpensive motherboard that also looks good, especially in white.\n\nBest ATX B850\n\nBest B850 Motherboard [...] Less expensive options are available, but opting for one of those would mean losing some important features. If you\u2019re in the market for an inexpensive motherboard for the latest and greatest Intel has to offer and want 20 Gbps ports and a PCIe 5.0 slot, the B650M Mortar is the best choice we've tested in the sub-$200 market. The fact that it often sells for $180 makes it easy to recommend.",
+      "score": 0.8923472,
+      "raw_content": null,
+      "id": "326efb-00"
+    },
+    {
+      "url": "https://www.newegg.com/insider/best-am5-motherboards-2026",
+      "title": "Best AM5 Motherboards in 2026",
+      "content": "(598)MSI MAG X870 TOMAHAWK WIFI Motherboard, ATX - Supports AMD Ryzen 9000 / 8000 / 7000 Processors, AM5 - 80A SPS VRM, DDR5 Memory Boost 8400+MT/s (OC), PCIe 5.0 x16 & 4.0 x16, M.2 Gen5, Wi-Fi 7, 5G LAN$219.99$259.99 Save 15%(120)ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 Ryzen\u2122 Desktop 9000 8000 & 7000 ATX motherboard, 12 + 2 power stages, DDR5, 3x M.2 slot, PCIe\u00ae 4.0, 2.5G LAN, WiFi 6E, USB 3.2 Gen 2x2 Type-C\u00ae, Aura Sync$129.99$227.99 Save 42%(101)GIGABYTE B850 AORUS ELITE WIFI7 ICE AMD [...] ELITE WIFI7 ICE AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 3x M.2, PCIe 5.0, USB-C, WIFI7, 2.5GbE LAN, EZ-Latch, 5-Year Warranty$229.99$254.99 Save 9%(4)ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort, HDMI, USB 20Gbps Type-C, BIOS FlashBack, Aura Sync$139.99$199.99 Save 30% [...] The MSI PRO B850-S WIFI6E is the budget ATX pick here: four DDR5 slots supporting up to 8200 MT/s overclocked, two CPU-attached M.2 slots with the first at PCIe 5.0 x4, four SATA, 2.5Gbps Ethernet, Wi-Fi 6E, a 10Gbps Type-C port and two 8-pin CPU power connectors. Note that its main graphics slot is PCIe 4.0 x16 rather than 5.0, which matters for almost nothing today.\n\nImage 57: MSI MPG X870E CARBON WIFI AM5 ATX motherboard",
+      "score": 0.86136365,
+      "raw_content": null,
+      "id": "060025-01"
+    },
+    {
+      "url": "https://www.pcguide.com/motherboard/guide/best-b850",
+      "title": "Best B850 motherboards in 2026 \u2013 our top picks - PC Guide",
+      "content": "Specifications\n\n Socket: AM5\n Chipset: B850\n Form Factor: ATX\n PCIe Version: PCIe 5.0\n Memory Speed: 8000+MT/s (OC)\n Memory Capacity: 256GB DDR5\n\nReasons to Buy\n\n Robust VRM design\n Plenty of AI features for optimized performance\n\nReasons to Avoid\n\n No USB 4 port\n Priced slightly higher than other options\n\n Shop on Amazon\n\nIf you\u2019d rather check out other options before making up your mind, we recommend you check out the ASUS ROG Strix B850-A motherboard. [...] ### MSI MAG B850 TOMAHAWK MAX WIFI\n\n  + Socket: AM5\n  + Chipset: B850\n  + Form Factor: ATX \u2013 243.84\u00d7304.8mm\n  + PCIe Version: Gen 5 PCIe and Gen 5 NVMe\n  + Memory Speed: 8400 \u2013 5600 (OC) MT/s\n  + Memory Capacity: 256GB DDR5\n\n  Shop on Amazon\n\n  Excellent\n \n  + Memory Capacity: 256GB DDR5\n\n  Shop on Amazon\n \n  + Memory Capacity: 256 GB DDR5\n\n  Shop on Amazon\n \n  + Memory Capacity: 256GB DDR5\n\n  Shop on Amazon\n\n## How we picked [...] Shop on Amazon\n\nWhile the B850 chipset falls under the mid-range category, there are budget options for it as well, and if you were looking for one, check out the ASRock B850 Pro RS WiFi. This motherboard, at the time of writing, has a price tag of $189.99, which is a lot less than other options on this list.",
+      "score": 0.82082915,
+      "raw_content": null,
+      "id": "7a5170-02"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HVhxXe_xsp8",
+      "title": "Best B850 Motherboards 2026 [watch before you buy]",
+      "content": "# Best B850 Motherboards 2026 [watch before you buy]\n## Channel: The ReviewLab\n14.6K subscribers\n5 likes\n\n### Description\n739 views\nPosted: 2026-10-02\n\u2705Here are our recommendations for the Best B850 Motherboards you can buy in 2026:\n\n\u25ba 5. ASRock B850M-X WiFi - \n\u25ba 4. MSI MAG B850 Tomahawk MAX - \n\u25ba 3. ASUS TUF Gaming B850-PLUS WiFi - \n\u25ba 2. ASUS ROG Strix B850-A Gaming WiFi - \n\u25ba 1. GIGABYTE B850 EAGLE WIFI6E - [...] We have just laid out the top 5 best B850 Motherboards of 2026. In 5th place is the ASRock B850M-X WiFi, our pick for the best Budget-friendly Motherboard for small PC build. In 4th place is the MSI MAG B850 Tomahawk MAX, our pick for the best Motherboard for Balanced Performance. In 3rd place is the ASUS TUF Gaming B850-PLUS WiFi, our pick for the best Motherboard for Durability & Stability. In 2nd place is the ASUS ROG Strix B850-A Gaming WiFi, our pick for the best Premium Motherboard for [...] [8:54] Finally, our top product name is the Gigabyte B850 Eagle Wi-Fi 6E. The Gigabyte B850 Eagle Wi-Fi 6E is one of\n[9:04] the best overall AM5 motherboards you can pick if you want to increase your productivity without over complicating your build. It's designed to fully\n[9:12] support the latest Ryzen 7000, 8000, and even 9000 series processors, giving you a powerful and future ready platform",
+      "score": 0.80405265,
+      "raw_content": null,
+      "id": "dc0540-03"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=K7rf0Pbj1v4",
+      "title": "Best B850 Motherboards Under $200 \u2014 Don\u2019t Buy the Wrong One",
+      "content": "# Best B850 Motherboards Under $200 \u2014 Don\u2019t Buy the Wrong One\n## Channel: BC Zone\n8.71K subscribers\n19 likes\n\n### Description\n2,836 views\nPosted: 2026-06-06\nMy Top Picks For the Best Budget B850 Motherboards For AM5 Builds On Amazon:\n\n\u25baBest Overall \u2014 ASRock B850 Pro RS WiFi\n\n\u25baSale-Watch Pick \u2014 MSI MAG B850 Tomahawk MAX WiFi\n\n\u25baCheapest I\u2019d Actually Buy \u2014 ASRock B850 Pro-A\n\n\u25baBest Micro-ATX \u2014 ASRock B850M Riptide WiFi\n\n\u25baMicro-ATX Alternative \u2014 Gigabyte B850M AORUS Elite WIFI6E ICE [...] [0:57] B850i Lightning Wi-Fi. And if the MSI Mag B850 Tomahawk Max Wi-Fi drops lower or near $200 when you check the\n[1:05] description links for current prices, it beats everything else on this list. Let me start with the one most of you should\n[1:12] actually buy. For most AM5 gaming builds under $200, this is where I'd start.\n[1:19] full ATX layout, Wi-Fi 6E, 2.5 gig LAN, BIOS flashback, PCIe 5.0 on the graphics",
+      "score": 0.78512776,
+      "raw_content": null,
+      "id": "91295c-04"
+    }
+  ],
+  "response_time": 3.24,
+  "request_id": "e1d67837-92a8-4dcd-8ce4-a4dd69155108"
+}

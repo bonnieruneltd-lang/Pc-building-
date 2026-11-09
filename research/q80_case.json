@@ -1,0 +1,50 @@
+{
+  "query": "best PC case 2026 airflow mid tower price Lian Li Fractal",
+  "follow_up_questions": null,
+  "answer": "The sources indicate that the Lian Li Lancool 217 is the best overall choice for a high-performance build in 2026, with five included fans, excellent component support, and strong independent cooling results. It is priced at $119.99 and supports GPUs up to 380 mm. The Lian Li Lancool 207 also leads in thermal performance, keeping CPU and GPU coolest under sustained load, with temperatures of 38.1\u00b0C (100.6\u00b0F) for CPU and 38.2\u00b0C (100.8\u00b0F) for GPU, at a price of around $80. The sources do not provide specific pricing for the Lian Li Fractal Design case in question.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.newegg.com/insider/best-mid-tower-pc-cases-for-airflow-and-aesthetics-in-2026",
+      "title": "Best Mid-Tower PC Cases for Airflow and Aesthetics in 2026",
+      "content": "Image 33: Three different PC case designs showing mesh front, tempered glass, and compact options\n| Case | Front Panel | Max GPU Length | Price (approx) | Best For |\n ---  --- \n| Fractal Design Torrent | Open mesh | 461mm | ~$140 | Best airflow overall |\n| Corsair 4000D RS Frame | 3D mesh | 360mm | ~$100 | Best value mid-tower |\n| Lian Li Lancool III | Mesh | 435mm | ~$100 | Best builder experience |\n| Fractal Design Meshify 2 | Mesh | 467mm | ~$110 | Best quiet+airflow balance | [...] Image 34: PC builder installing a graphics card into a case with cable management visible\n## Final Verdict\n\nFor a high-end gaming build where thermal performance is the priority, the Fractal Design Torrent is the case to beat in 2026. For most mid-range builds where value and build experience balance, the Lian Li Lancool III or Corsair 4000D RS Frame at around $100 will serve you well. All of these cases provide significantly better thermals than glass-front alternatives.\n\n## Read More [...] (65)Zalman CUBIX-G Micro-ATX PC Case, MATX Case with 3 X 120mm FRGB Fans Pre-Installed, Panoramic View Tempered Glass Panels, USB Type-C Port, Fits up to 280mm GPUs, Black$34.98$59.99 Save 41%(39)Lian Li V100 ATX Mid-Tower PC Case, 4 x 120mm ARGB PWM Fans Pre-Installed, LED RGB Strip, Display Platform with Tempered Glass, Support 420mm GPUs, 360mm Radiator, Optimized Airflow - Black (V100RX)$74.99$79.99 Save 6%(352)Phanteks XT Pro, Mid-Tower Gaming Chassis, High Airflow Performance Mesh,",
+      "score": 0.9170729,
+      "raw_content": null,
+      "id": "480788-00"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/news-best-pc-cases-2026",
+      "title": "Best PC Cases for 2026: Fractal, Lian Li and More - TechRepublic",
+      "content": "| Pick | Case | Price | GPU clearance | Largest radiator | Included fans |\n ---  ---  --- |\n| Best overall | Lian Li Lancool 217 | $119.99 | 380 mm | 360 mm | 5 |\n| Best design | Fractal Design Summit | $169.99 | 425 mm | 360 mm | 3 |\n| Best modular case | Corsair FRAME 4000D RS ARGB | $124.99 | 405 mm with stock front fans | 360 mm | 3 |\n| Best for liquid cooling | NZXT H7 Flow | $129.99 | 410 mm | 420 mm | 3 |\n| Best budget pick | Montech AIR 903 MAX | $79.99 | 400 mm | 360 mm | 4 | [...] The Lian Li Lancool 217 is the best overall choice. Five included fans, excellent component support, and strong independent cooling results give it the fewest compromises for a typical high-performance build.\n\nChoose the Fractal Summit if design matters as much as cooling and you want more GPU room than the smaller Fractal North family provides.\n\nThe Corsair FRAME 4000D RS ARGB is the better choice if modularity, reverse-connector motherboard support, and flexible fan placement matter most. [...] Choose the Corsair FRAME 4000D RS ARGB if: You value modular parts, flexible cooling layouts, and generous GPU clearance in a mid-tower.\n\n## 4. NZXT H7 Flow: Best for liquid cooling\n\nThe NZXT H7 Flow is the easiest pick here for a build centered around a large front radiator.\n\nIt supports radiators up to 420 mm in the front and 360 mm at the top. Three 120 mm F120Q fans come installed at the front, while the case can hold up to 10 fans in total.",
+      "score": 0.8235701,
+      "raw_content": null,
+      "id": "6927f1-01"
+    },
+    {
+      "url": "https://www.maxmybuild.com/guides/choosing-parts/best-airflow-pc-case-2026",
+      "title": "Best Airflow PC Case in 2026: Ranked by Thermal Benchmark Data | MaxMyBuild",
+      "content": "| Case | Front Panel | CPU Temp \u00b0C (\u00b0F) | GPU Temp \u00b0C (\u00b0F) | Max Noise | Price |\n ---  ---  --- |\n| Lian Li Lancool 207 | Mesh | 38.1 (100.6) | 38.2 (100.8) | 41.6 dB | ~$80 |\n| Phanteks XT Pro Ultra | Mesh | 40.3 (104.5) | 43.1 (109.6) | 43.9 dB | ~$88 |\n| Corsair 6500D Airflow | Mesh | 41.1 (106.0) | 48.9 (120.0) | 40.8 dB | ~$200 |\n| Fractal Design Pop Air | Mesh | 44.8 (112.6) | 49.2 (120.6) | 31.3 dB | ~$90 | [...] The best airflow PC case in 2026 is the one that keeps your CPU and GPU coolest under sustained load. Thermal benchmark data covers 85 cases, measuring CPU and GPU temperature deltas above ambient under sustained gaming load. Lower = better cooling. The Lian Li Lancool 207 leads at CPU 38.1\u00b0C (100.6\u00b0F) and GPU 38.2\u00b0C (100.8\u00b0F) \u2014 the best thermal balance across all 85 cases, at ~$80. [...] ## Best Overall: Lian Li Lancool 207 (~$80)\n\nThe Lancool 207 has the best thermal balance of any case tested: CPU 38.1\u00b0C (100.6\u00b0F) and GPU 38.2\u00b0C (100.8\u00b0F) above ambient, with a max noise of 41.6 dB at full fan speed. No other case tested achieves lower temperatures on both CPU and GPU simultaneously.",
+      "score": 0.82254606,
+      "raw_content": null,
+      "id": "55ba8a-02"
+    },
+    {
+      "url": "https://www.pcmag.com/picks/the-best-pc-cases",
+      "title": "The Best PC Cases We've Tested for 2026 | PCMag",
+      "content": "$95.00\nat\nInWin\n\nSee It\")\n\nThe Fractal Design Era 2\n\n### Fractal Design Era 2\")\n\n$212.92\nat\nAmazon\n\nSee It\")\n\nThe Corsair 9000D RGB Airflow\n\n### Corsair 9000D RGB Airflow\")\n\n$499.99\nat\nCorsair\n\nSee It\")\n\nThe Thermaltake View 270 TG ARGB Matcha Green\n\n### Thermaltake View 270 TG ARGB Matcha Green\")\n\n$89.99\nat\nAmazon\n\nSee It\")\n\nThe Lian Li DAN A3-mATX Micro ATX Case\n\n### Lian Li DAN A3-mATX\")\n\n$72.99\nat\nAmazon\n\nSee It\")\n\nThe Hyte X50\n\n### Hyte X50\")\n\n$129.99\nat\nAmazon\n\n$161.99\nSave $32.00 [...] GET IT NOW\n\n$945 at Amazon\")\n\nLearn More\n\nSilverStone Alta F2\nReview\n\n## The Best PC Cases for 2026 Compare Specs\n\nYour Selections\n\nThe Corsair Air 5400\n\n### Corsair Air 5400\")\n\n$229.00\nat\nAmazon\n\nSee It\")\n\n### Cooler Master Qube 500 Flatpack\")\n\n$166.39\nat\nAmazon\n\nCheck Stock\")\n\nIn Win A3\n\n### In Win A3\")\n\n$95.00\nat\nInWin\n\nSee It\")\n\nThe Fractal Design Era 2\n\n### Fractal Design Era 2\")\n\n$212.92\nat\nAmazon\n\nSee It\")\n\nThe Corsair 9000D RGB Airflow\n\n### Corsair 9000D RGB Airflow\") [...] ### Corsair Air 5400\")\n\n$229.00\nat\nAmazon\n\nSee It\")\n\n### Cooler Master Qube 500 Flatpack\")\n\n$166.39\nat\nAmazon\n\nCheck Stock\")\n\nIn Win A3\n\n### In Win A3\")\n\n$95.00\nat\nInWin\n\nSee It\")\n\nThe Fractal Design Era 2\n\n### Fractal Design Era 2\")\n\n$212.92\nat\nAmazon\n\nSee It\")\n\nThe Corsair 9000D RGB Airflow\n\n### Corsair 9000D RGB Airflow\")\n\n$499.99\nat\nCorsair\n\nSee It\")\n\nThe Thermaltake View 270 TG ARGB Matcha Green\n\n### Thermaltake View 270 TG ARGB Matcha Green\")\n\n$89.99\nat\nAmazon\n\nSee It\")",
+      "score": 0.8051581,
+      "raw_content": null,
+      "id": "dda767-03"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vjw97aUw6B0",
+      "title": "Airflow Maxxing: Top 10 ATX PC Cases Worth Buying in 2026",
+      "content": "ASUS Prime AP303 (black): \nASUS Prime AP303 (white): \n\nNZXT H5 Flow (black): \nNZXT H5 Flow (white): \n\nProArt PA401: \nProArt PA602: \n\nLian Li Lancool 217 (black): \nLian Li Lancool 217 (white): \n\nCorsair 4000D (black): \nCorsair 4000D (white): \n\nFractal Design North (black): \nFractal Design North (white): \n\nLian Li Sup-01 (black): \nLian Li Sup-01 (white): not available\n\nHAVN BF360 (black): \nHAVN BF360 (white): \n\nLian Li O11 Mini V2 (black): \nLian Li O11 Mini V2 (white): \n\n(\ud835\udc14\ud835\udc0a \ud835\udc00\ud835\udc26\ud835\udc1a\ud835\udc33\ud835\udc28\ud835\udc27) [...] (\ud835\udc14\ud835\udc0a \ud835\udc00\ud835\udc26\ud835\udc1a\ud835\udc33\ud835\udc28\ud835\udc27)\n\nLian Li Lancool 207 (black): \nLian Li Lancool 207 (white): \n\nASUS Prime AP303 (black): \nASUS Prime AP303 (white): \n\nNZXT H5 Flow (black): \nNZXT H5 Flow (white): \n\nProArt PA401: \nProArt PA602: \n\nLian Li Lancool 217 (black): \nLian Li Lancool 217 (white): \n\nCorsair 4000D (black): \nCorsair 4000D (white): \n\nFractal Design North (black): \nFractal Design North (white): \n\nLian Li Sup-01 (black): \nLian Li Sup-01 (white): \n\nHAVN BF360 (black): \nHAVN BF360 (white): [...] [9:40] flustered back in December 2022. Last year, we saw a small refresh for the North when Momentum entered the scene, a blackout, bolder version of the case,\n[9:48] which still retained the wood aesthetic, but less pronounced. We really like the darker theme for this one with the focus being more geared towards Fractal's new\n[9:56] case fans. It doesn't matter if you like your North more compact, larger with the XL versions, mesh or glass, with prices respectfully starting from around $150.",
+      "score": 0.77364457,
+      "raw_content": null,
+      "id": "e8b6eb-04"
+    }
+  ],
+  "response_time": 3.44,
+  "request_id": "43acddcf-ebd4-4ef0-b131-c313fe43afbe"
+}
